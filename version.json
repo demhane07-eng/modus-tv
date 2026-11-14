@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "3.7.1",
+  "versionCode": 16,
+  "versionName": "3.8",
   "apk": "M-ModusTV.apk",
-  "notes": "Yeni ikon (TV nişanı). Telefonda ilk açılışda ana ekrana əlavə etməyi təklif edir."
+  "notes": "Telefonda yeni görünüş: aşağıda menyu (Kanallar, Seçilmiş, Son, Axtar, Ayarlar). Son baxılanları təmizləmək olar. Yeniləməni Ayarlardan yoxlamaq olar."
 }

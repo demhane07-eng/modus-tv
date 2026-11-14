@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "3.6",
+  "versionCode": 14,
+  "versionName": "3.7",
   "apk": "M-ModusTV.apk",
-  "notes": "Ön baxış siyahıda gəzəndə dayanmır. Telefondan yazaraq axtarış. Telefon qoşulması açılıb-bağlanır və şifrəlidir; telefondan TV-dəki fayllara baxmaq. Kanal kəsiləndə özü yenidən qoşulur. Çoxlu kiçik düzəliş."
+  "notes": "M-Modus Brauzer və M-Modus Pult üçün hazırlıq: eyni şifrə hər iki proqramda işləyir. Telefon qoşulması daha təhlükəsiz."
 }

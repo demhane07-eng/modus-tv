@@ -1,0 +1,18 @@
+{
+  "countries": {
+    "az": {"label": "Azərbaycan", "freetv": "Azerbaijan"},
+    "tr": {"label": "Türkiyə", "freetv": "Turkey"},
+    "ru": {"label": "Rusiya", "freetv": "Russia"}
+  },
+  "iptv_org": "https://iptv-org.github.io/iptv/",
+  "iptv_api": "https://iptv-org.github.io/api/",
+  "freetv_playlist": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8",
+  "epg": [
+    "https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz",
+    "http://epg.one/ru.xml.gz"
+  ],
+  "skip_url_pattern": "youtube\\.com|youtu\\.be",
+  "timeout": 12,
+  "workers": 24,
+  "report_after_days": 30
+}

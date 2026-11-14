@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "3.2",
+  "versionCode": 9,
+  "versionName": "3.3",
   "apk": "M-ModusTV.apk",
-  "notes": "Yeni ad: M-Modus TV. Yeni dizayn, ön baxış, telefonla idarəetmə, M-Modus kanal siyahısı."
+  "notes": "Kanal açılmasa, proqram ehtiyat linkləri özü yoxlayır."
 }

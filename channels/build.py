@@ -150,6 +150,7 @@ def main():
 
     channels = {}  # key -> channel
     order = []
+    by_name = {}  # (list, normalised name) -> key; joins a source without tvg-id to the same channel in another source
     skip = re.compile(cfg.get("skip_url_pattern", r"$^"), re.I)
 
     def add(entry, country, source):
@@ -157,6 +158,12 @@ def main():
         if not url or skip.search(url):
             return
         key = channel_key(entry)
+        nkey = (country["label"], norm(clean_name(entry["name"])))
+        if key not in channels and nkey[1] and nkey in by_name:
+            other = channels[by_name[nkey]]
+            # same name in the same country: merge unless both carry different tvg-ids (then they are different channels)
+            if not (key.startswith("id:") and other["id"]):
+                key = other["key"]
         ch = channels.get(key)
         if ch is None:
             tid = entry["attrs"].get("tvg-id", "").split("@")[0]
@@ -167,9 +174,15 @@ def main():
                 "urls": [], "opts": entry["opts"], "sources": set(),
             }
             order.append(key)
+        if nkey[1]:
+            by_name.setdefault(nkey, key)
         if url not in [u for u, _ in ch["urls"]]:
             ch["urls"].append((url, entry["opts"]))
         ch["sources"].add(source)
+        if not ch["id"]:
+            tid = entry["attrs"].get("tvg-id", "").split("@")[0]
+            if tid:
+                ch["id"] = tid
         if not ch["logo"] and entry["attrs"].get("tvg-logo"):
             ch["logo"] = entry["attrs"]["tvg-logo"]
 
@@ -217,11 +230,16 @@ def main():
         except Exception:
             return False
 
+    # every link of a channel is checked; working ones go first, the rest stay as backups
+    # (a link that fails from GitHub's server may still work in Azerbaijan)
     def check(ch):
+        good, bad = [], []
         for url, opts in ch["urls"]:
-            if works(url, opts):
-                return ch, url, opts
-        return ch, None, None
+            (good if works(url, opts) else bad).append((url, opts))
+        if not good:
+            return ch, None, None, []
+        url, opts = good[0]
+        return ch, url, opts, [u for u, _ in good[1:] + bad]
 
     results = []
     with cf.ThreadPoolExecutor(max_workers=cfg.get("workers", 24)) as pool:
@@ -233,8 +251,8 @@ def main():
     epg = ",".join(cfg.get("epg", []))
     head = f'#EXTM3U x-tvg-url="{epg}"\n' if epg else "#EXTM3U\n"
     per_list = {}
-    ok_count, report_dead = 0, []
-    for ch, url, opts in results:
+    ok_count, report_dead, backup_count = 0, [], 0
+    for ch, url, opts, alts in results:
         st = state.setdefault(ch["key"], {"name": ch["name"], "list": ch["list"]})
         st["name"], st["list"] = ch["name"], ch["list"]
         if not url:
@@ -254,7 +272,10 @@ def main():
         attrs.append(f'x-list="{ch["list"]}"')
         if native and native != name:
             attrs.append(f'x-native-name="{native}"')
-        lines = [f'#EXTINF:-1 {" ".join(attrs)},{name}'] + list(opts or []) + [url]
+        alts = alts[: cfg.get("max_backup_links", 4)]
+        backup_count += len(alts)
+        # "#EXTALT:" = backup link for M-Modus TV; other players ignore these lines
+        lines = [f'#EXTINF:-1 {" ".join(attrs)},{name}'] + list(opts or []) + [f"#EXTALT:{a}" for a in alts] + [url]
         per_list.setdefault(ch["list"], []).append("\n".join(lines))
 
     all_lines = []
@@ -274,7 +295,7 @@ def main():
 
     # report
     long_dead = sorted((s for s in state.values() if s.get("fails", 0) >= cfg.get("report_after_days", 30)), key=lambda s: s["name"])
-    rep = [f"# Kanal hesabatı — {today}", "", f"İşləyən: **{ok_count}** · bu gün işləməyən: **{len(report_dead)}**", "",
+    rep = [f"# Kanal hesabatı — {today}", "", f"İşləyən: **{ok_count}** · bu gün işləməyən: **{len(report_dead)}** · ehtiyat linklər: **{backup_count}**", "",
            "| Siyahı | İşləyən |", "|---|---|"]
     for code, country in cfg["countries"].items():
         rep.append(f"| {country['label']} | {len(per_list.get(country['label'], []))} |")
@@ -284,7 +305,7 @@ def main():
     rep += [f"- {s['name']} ({s['list']}) · son işləmə: {s.get('last_ok', 'heç vaxt')}" for s in long_dead] or ["—"]
     with open(os.path.join(ROOT, "report.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(rep) + "\n")
-    print(f"done: {ok_count} working, {len(report_dead)} not working today")
+    print(f"done: {ok_count} working, {len(report_dead)} not working today, {backup_count} backup links")
     return 0
 
 

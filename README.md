@@ -1,4 +1,4 @@
-# Modus TV
+# M-Modus TV
 
 Mi Box (Android TV) üçün IPTV proqramı və onun kanal siyahısı.
 
@@ -6,7 +6,7 @@ Mi Box (Android TV) üçün IPTV proqramı və onun kanal siyahısı.
 
 | Fayl | Nə üçündür |
 |---|---|
-| `ModusTV.apk` | Proqramın son versiyası |
+| `M-ModusTV.apk` | Proqramın son versiyası |
 | `version.json` | Proqram yeni versiyanı buradan yoxlayır |
 | `playlists/modus.m3u` | Bütün işləyən kanallar (Azərbaycan, Türkiyə, Rusiya) |
 | `playlists/az.m3u`, `tr.m3u`, `ru.m3u` | Ölkələr üzrə ayrıca siyahılar |
@@ -27,7 +27,7 @@ Hər gün avtomatik (GitHub Actions, 06:17 Bakı vaxtı):
 
 ## Yeni versiya buraxmaq
 
-1. Yeni `ModusTV.apk` faylını yükləyin.
+1. Yeni `M-ModusTV.apk` faylını yükləyin.
 2. `version.json`-da `versionCode` rəqəmini artırın.
 
-Modus TV bunu 12 saat ərzində görüb yeniləməni təklif edəcək.
+M-Modus TV bunu 12 saat ərzində görüb yeniləməni təklif edəcək.

@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "3.4",
+  "versionCode": 11,
+  "versionName": "3.5",
   "apk": "M-ModusTV.apk",
-  "notes": "Kateqoriyalar rusca (Ayarlar → Görüntü). Kanal açılmasa, ehtiyat linklər özü yoxlanılır."
+  "notes": "Telefonda da işləyir. Kateqoriyalar rusca. Kanal açılmasa, ehtiyat linklər özü yoxlanılır."
 }

@@ -1,6 +1,6 @@
 # M-Modus TV
 
-Mi Box (Android TV) üçün IPTV proqramı və onun kanal siyahısı.
+Mi Box (Android TV) və Android telefon üçün IPTV proqramı və onun kanal siyahısı. Eyni APK hər iki cihazda işləyir: TV-də pultla, telefonda toxunuşla.
 
 ## Fayllar
 
@@ -19,7 +19,7 @@ Mi Box (Android TV) üçün IPTV proqramı və onun kanal siyahısı.
 Hər gün avtomatik (GitHub Actions, 06:17 Bakı vaxtı):
 
 1. iptv-org və Free-TV-dən ən son linklər götürülür.
-2. Eyni kanal birləşdirilir; bir kanalın bir neçə linki varsa, ilk işləyən istifadə olunur.
+2. Eyni kanal birləşdirilir; bir kanalın bir neçə linki varsa, ilk işləyən əsas olur, qalanları ehtiyat kimi saxlanılır (proqram əsas link açılmasa onlara özü keçir).
 3. Bütün linklər yoxlanılır, siyahıya yalnız işləyənlər düşür.
 4. Bu gün işləməyən kanal silinmir: işləyən kimi növbəti gün özü qayıdır.
 

@@ -17,6 +17,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Səs yoxlaması üçün ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - name: Siyahını qur və linkləri yoxla
         run: python channels/build.py
       - name: Dəyişiklikləri saxla

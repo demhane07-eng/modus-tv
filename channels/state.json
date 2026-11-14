@@ -1,6 +1,6 @@
 {
  "id:15plusmusic.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "15+ Music"
  },
@@ -65,7 +65,7 @@
   "name": "555"
  },
  "id:5kanal.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Пятый канал Ⓢ"
  },
@@ -88,12 +88,12 @@
   "name": "86"
  },
  "id:a1.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "A1"
  },
  "id:a2.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "A2"
  },
@@ -104,7 +104,7 @@
   "name": "A2TV"
  },
  "id:afontovo.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Afontovo"
  },
@@ -139,22 +139,22 @@
   "name": "Almahriah TV"
  },
  "id:alphacinema.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "alpha Cinema"
  },
  "id:alrafidaintv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Al-Rafidain TV"
  },
  "id:altastv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Altas TV"
  },
  "id:alvinchanneltv.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "Alvin Channel TV"
  },
@@ -171,7 +171,7 @@
   "name": "Amedia Hit"
  },
  "id:amediapremium.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Amedia Premium"
  },
@@ -182,7 +182,7 @@
   "name": "Anadolu Net TV"
  },
  "id:anewztv.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "AnewZ TV"
  },
@@ -193,7 +193,7 @@
   "name": "Angel TV Russian"
  },
  "id:ani.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Ani"
  },
@@ -228,7 +228,7 @@
   "name": "Arkhyz 24"
  },
  "id:arktika24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Arktika 24"
  },
@@ -281,7 +281,8 @@
   "name": "AS TV"
  },
  "id:atv.tr": {
-  "fails": 1,
+  "fails": 0,
+  "last_ok": "2026-11-14",
   "list": "Türkiyə",
   "name": "ATV"
  },
@@ -292,12 +293,12 @@
   "name": "ATV Alanya"
  },
  "id:atvavrupa.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "ATV Avrupa"
  },
  "id:autoplus.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Auto Plus"
  },
@@ -326,7 +327,7 @@
   "name": "AzStarTV"
  },
  "id:aztv.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "Az TV"
  },
@@ -337,7 +338,7 @@
   "name": "Baby Time"
  },
  "id:babytv.uk": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "BabyTV Turkiye"
  },
@@ -354,12 +355,12 @@
   "name": "Balabol"
  },
  "id:bashkortostan24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Bashkortostan 24"
  },
  "id:bbcearth.uk": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "BBC Earth Turkiye"
  },
@@ -382,12 +383,12 @@
   "name": "Belgorod 24"
  },
  "id:benguturktv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Benguturk TV"
  },
  "id:beyaztv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Beyaz TV"
  },
@@ -398,7 +399,7 @@
   "name": "Big Asia"
  },
  "id:bigplanet.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Big Planet"
  },
@@ -433,7 +434,7 @@
   "name": "Bober"
  },
  "id:bokstv.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Boks TV"
  },
@@ -462,7 +463,7 @@
   "name": "BRIDGE"
  },
  "id:bridgeclassic.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "BRIDGE Classic"
  },
@@ -473,7 +474,7 @@
   "name": "BRIDGE Deluxe"
  },
  "id:bridgehits.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "BRIDGE Hits"
  },
@@ -496,7 +497,7 @@
   "name": "BST"
  },
  "id:bursatv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Bursa TV"
  },
@@ -519,17 +520,17 @@
   "name": "Cartoon Network"
  },
  "id:caytv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Cay TV"
  },
  "id:cbcsport.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "CBC Sport"
  },
  "id:cekmekoytv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Cekmekoy TV"
  },
@@ -582,7 +583,7 @@
   "name": "Channel 8 Novosibirsk"
  },
  "id:channelone.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Channel One"
  },
@@ -599,7 +600,7 @@
   "name": "Ciftci TV"
  },
  "id:cinema.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Cinema"
  },
@@ -682,7 +683,7 @@
   "name": "City Eden KinoMistika"
  },
  "id:cityedenkinosemya.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "City Eden KinoSemya"
  },
@@ -741,7 +742,7 @@
   "name": "CNN Turk"
  },
  "id:crimea24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Crimea 24"
  },
@@ -782,17 +783,18 @@
   "name": "Detskiy"
  },
  "id:detskoekino.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Detskoe kino"
  },
  "id:detvoraplus.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Detvora+"
  },
  "id:dha.tr": {
-  "fails": 1,
+  "fails": 0,
+  "last_ok": "2026-11-14",
   "list": "Türkiyə",
   "name": "DHA"
  },
@@ -821,7 +823,7 @@
   "name": "Discovery Channel"
  },
  "id:disneyjr.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Disney Jr."
  },
@@ -838,17 +840,17 @@
   "name": "Diyar TV"
  },
  "id:doctor.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Doctor"
  },
  "id:docubox.nl": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "DocuBox Russia"
  },
  "id:domashniezhivotnye.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Domashnie Zhivotnye"
  },
@@ -871,7 +873,7 @@
   "name": "Dom kino Premium"
  },
  "id:don24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Don 24"
  },
@@ -936,7 +938,7 @@
   "name": "EL TV"
  },
  "id:englishclass.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "English Class"
  },
@@ -971,7 +973,7 @@
   "name": "ETV Kayseri"
  },
  "id:etvmanisa.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "ETV Manisa"
  },
@@ -1018,12 +1020,12 @@
   "name": "Evrokino"
  },
  "id:extremesportschannel.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Extreme Sports Channel"
  },
  "id:fan.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "FAN"
  },
@@ -1046,12 +1048,13 @@
   "name": "FB TV"
  },
  "id:fenikspluskino.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Feniks plus Kino"
  },
  "id:finansturktv.tr": {
-  "fails": 1,
+  "fails": 0,
+  "last_ok": "2026-11-14",
   "list": "Türkiyə",
   "name": "Finans Turk TV"
  },
@@ -1074,7 +1077,7 @@
   "name": "Flash Haber TV"
  },
  "id:fonmusic.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "FON Music"
  },
@@ -1091,7 +1094,7 @@
   "name": "Food Network"
  },
  "id:fortunatv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Fortuna TV"
  },
@@ -1114,12 +1117,12 @@
   "name": "Friday!"
  },
  "id:fridayinternational.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Friday! International Kazakhstan"
  },
  "id:fx.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "FX"
  },
@@ -1136,7 +1139,7 @@
   "name": "Glazami Turista"
  },
  "id:gorodskoytelekanal.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Gorodskoy telekanal"
  },
@@ -1171,12 +1174,12 @@
   "name": "GunAz TV"
  },
  "id:guneydogutv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Guneydogu TV"
  },
  "id:gzt.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "GZT"
  },
@@ -1211,7 +1214,7 @@
   "name": "Hit HD"
  },
  "id:hollywood.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Hollywood"
  },
@@ -1240,17 +1243,17 @@
   "name": "HTSpor TV"
  },
  "id:hunattv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Hunat TV"
  },
  "id:iceltv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Icel TV"
  },
  "id:ictimaitv.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "Ictimai TV"
  },
@@ -1267,7 +1270,7 @@
   "name": "Illusion+"
  },
  "id:india.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "India"
  },
@@ -1296,7 +1299,7 @@
   "name": "Istoki"
  },
  "id:istoriya.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Istoriya"
  },
@@ -1337,22 +1340,22 @@
   "name": "Kanal 3"
  },
  "id:kanal32.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Kanal 32"
  },
  "id:kanal33.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Kanal 33"
  },
  "id:kanal34.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Kanal 34"
  },
  "id:kanal35.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "Kanal 35"
  },
@@ -1363,7 +1366,7 @@
   "name": "Kanal 58"
  },
  "id:kanal7.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Kanal 7"
  },
@@ -1386,7 +1389,7 @@
   "name": "Kanal Firat"
  },
  "id:kanalhayat.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Kanal Hayat"
  },
@@ -1415,17 +1418,17 @@
   "name": "Kapitan Fantastika"
  },
  "id:karusel.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Карусель Ⓢ"
  },
  "id:katun24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Катунь 24 Ⓞ"
  },
  "id:kavkaz24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Kavkaz 24"
  },
@@ -1442,12 +1445,12 @@
   "name": "Kent Turk"
  },
  "id:khl.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "KHL"
  },
  "id:kineko.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Kineko"
  },
@@ -1458,7 +1461,7 @@
   "name": "Kino 1"
  },
  "id:kino24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Kino 24"
  },
@@ -1487,12 +1490,12 @@
   "name": "Kinopokaz"
  },
  "id:kinopremyera.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Kinopremyera"
  },
  "id:kinosat.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "KinoSat"
  },
@@ -1509,7 +1512,7 @@
   "name": "Kinoseriya"
  },
  "id:kinosvidanie.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Kinosvidanie"
  },
@@ -1520,7 +1523,7 @@
   "name": "Kino TV"
  },
  "id:kinouzhas.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Kinouzhas"
  },
@@ -1549,7 +1552,7 @@
   "name": "Komediynoe HD"
  },
  "id:kongresstv.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Kongress TV"
  },
@@ -1572,7 +1575,7 @@
   "name": "Krik-TV"
  },
  "id:ktoestkto.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Kto est kto"
  },
@@ -1613,22 +1616,22 @@
   "name": "Lalegul TV"
  },
  "id:lapkilive.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Lapki Live"
  },
  "id:ldprtv.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "LDPR TV"
  },
  "id:legendarnyy24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Legendarnyy 24"
  },
  "id:lentv24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "LenTV24"
  },
@@ -1645,7 +1648,7 @@
   "name": "Life TV"
  },
  "id:linetv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Line TV"
  },
@@ -1680,17 +1683,17 @@
   "name": "Maidan"
  },
  "id:mama.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Mama"
  },
  "id:match.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Матч ТВ Ⓢ"
  },
  "id:matcharena.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Match! Arena"
  },
@@ -1701,12 +1704,12 @@
   "name": "Match! Boets"
  },
  "id:matchigra.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Match! Igra"
  },
  "id:matchplaneta.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Match! Planeta"
  },
@@ -1717,7 +1720,7 @@
   "name": "Match! Premier"
  },
  "id:matchstrana.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Match! Strana"
  },
@@ -1734,12 +1737,12 @@
   "name": "MaviKaradeniz TV"
  },
  "id:mcmtop.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "MCM Top"
  },
  "id:medeniyyettv.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "Medeniyyet TV"
  },
@@ -1774,7 +1777,7 @@
   "name": "Mezzo Live"
  },
  "id:millet.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Millet"
  },
@@ -1827,7 +1830,7 @@
   "name": "MMA-TV.com"
  },
  "id:mosfilmgoldcollection.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Mosfilm Gold Collection"
  },
@@ -1844,12 +1847,12 @@
   "name": "Moskva. Doveriye"
  },
  "id:moviesmartturk.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "MovieSmart Turk"
  },
  "id:moyaplaneta.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Moya Planeta"
  },
@@ -1866,7 +1869,7 @@
   "name": "Moy mir"
  },
  "id:mturktv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "MTurk TV"
  },
@@ -1877,7 +1880,7 @@
   "name": "MTV Volgograd"
  },
  "id:mult.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Mult"
  },
@@ -1972,42 +1975,42 @@
   "name": "Nash Kinopokaz HD"
  },
  "id:nationalgeographic.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "National Geographic"
  },
  "id:nationalgeographic.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "National Geographic"
  },
  "id:nationalgeographicwild.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "National Geographic Wild"
  },
  "id:nationalgeographicwild.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "National Geographic Wild"
  },
  "id:naturaltv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Natural TV"
  },
  "id:nauka.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Nauka"
  },
  "id:naxcivantv.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "Naxcivan TV"
  },
  "id:nebesatv7.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Небеса ТВ7 Ⓢ"
  },
@@ -2048,13 +2051,14 @@
   "name": "NovgorOblTV"
  },
  "id:novorossiyatv.ru": {
-  "fails": 0,
+  "fails": 1,
   "last_ok": "2026-11-14",
   "list": "Rusiya",
   "name": "Novorossiya TV"
  },
  "id:now.tr": {
-  "fails": 1,
+  "fails": 0,
+  "last_ok": "2026-11-14",
   "list": "Türkiyə",
   "name": "NOW"
  },
@@ -2167,7 +2171,7 @@
   "name": "O!"
  },
  "id:o2tv.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "o2tv"
  },
@@ -2190,7 +2194,7 @@
   "name": "Okko Futbol"
  },
  "id:okkoprajmsport.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Okko Prajm Sport"
  },
@@ -2201,7 +2205,7 @@
   "name": "OlayTurk TV"
  },
  "id:on4tv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "On4 TV"
  },
@@ -2254,7 +2258,7 @@
   "name": "OTV-Prim"
  },
  "id:patriot.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Patriot"
  },
@@ -2271,7 +2275,7 @@
   "name": "Persiana Turkiye"
  },
  "id:perviykrymskiy.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Perviy Krymskiy"
  },
@@ -2300,7 +2304,7 @@
   "name": "Pobeda"
  },
  "id:poehali.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Poehali!"
  },
@@ -2377,7 +2381,7 @@
   "name": "Prodvizhenie"
  },
  "id:prolyubov.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Pro Lyubov"
  },
@@ -2388,12 +2392,12 @@
   "name": "Prosveshchenie"
  },
  "id:pyatnitsa.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Пятница! Ⓢ"
  },
  "id:qaftv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Qaf TV"
  },
@@ -2416,12 +2420,12 @@
   "name": "Radio Rossii"
  },
  "id:radioshanson.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Radio Shanson"
  },
  "id:radostmoya.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Radost Moya"
  },
@@ -2474,7 +2478,7 @@
   "name": "RT Balkan"
  },
  "id:rtd.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "RT Д Русский Ⓖ"
  },
@@ -2497,7 +2501,7 @@
   "name": "RTG TV"
  },
  "id:rtrplaneta.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "РТР-Планета Ⓢ"
  },
@@ -2520,7 +2524,7 @@
   "name": "Russia-1"
  },
  "id:russia24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Russia-24"
  },
@@ -2531,7 +2535,7 @@
   "name": "Russia-K"
  },
  "id:russianextreme.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Russian Extreme"
  },
@@ -2560,12 +2564,12 @@
   "name": "Russkiy Detektiv"
  },
  "id:russkiyillusion.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Russkiy Illusion"
  },
  "id:russkiyroman.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Russkiy roman"
  },
@@ -2576,7 +2580,7 @@
   "name": "RU.TV"
  },
  "id:rutvkids.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "RU.TV Kids"
  },
@@ -2599,7 +2603,7 @@
   "name": "Ryzhiy"
  },
  "id:rzdtv.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "RZD TV"
  },
@@ -2616,7 +2620,7 @@
   "name": "Salyam"
  },
  "id:samara24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Samara 24"
  },
@@ -2645,7 +2649,7 @@
   "name": "Sarafan"
  },
  "id:saratov24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Саратов 24"
  },
@@ -2674,7 +2678,7 @@
   "name": "Sercem TV"
  },
  "id:seven.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Seven"
  },
@@ -2715,17 +2719,17 @@
   "name": "Shopping Live"
  },
  "id:showturk.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Show Turk"
  },
  "id:sibir24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Sibir 24"
  },
  "id:simferopol24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Simferopol 24"
  },
@@ -2790,7 +2794,7 @@
   "name": "Sochi Live"
  },
  "id:solnce.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Solnce"
  },
@@ -2813,7 +2817,7 @@
   "name": "Soyuz"
  },
  "id:soyuzny.ru": {
-  "fails": 0,
+  "fails": 1,
   "last_ok": "2026-11-14",
   "list": "Rusiya",
   "name": "Soyuzny"
@@ -2843,12 +2847,12 @@
   "name": "Sportivnyy"
  },
  "id:ssport2.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "S Sport 2"
  },
  "id:starcinema.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Star Cinema"
  },
@@ -2865,7 +2869,7 @@
   "name": "START Air"
  },
  "id:starttriumf.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Start Triumf"
  },
@@ -2876,7 +2880,7 @@
   "name": "Star TV"
  },
  "id:startworld.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "START World"
  },
@@ -2893,7 +2897,7 @@
   "name": "STS"
  },
  "id:stskids.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "STS kids"
  },
@@ -2916,7 +2920,7 @@
   "name": "Sun RTV"
  },
  "id:supergeroi.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "SuperGeroi"
  },
@@ -2957,17 +2961,17 @@
   "name": "TBMM TV"
  },
  "id:teatr.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Teatr"
  },
  "id:tele1.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Tele 1"
  },
  "id:telecafe.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Telecafe"
  },
@@ -2984,7 +2988,7 @@
   "name": "Telekanal Krasnodar"
  },
  "id:telekanalspas.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Спас Ⓢ"
  },
@@ -2995,7 +2999,7 @@
   "name": "Звезда"
  },
  "id:teleputeshestviya.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Teleputeshestviya"
  },
@@ -3012,7 +3016,7 @@
   "name": "Tempo TV"
  },
  "id:terra.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "TERRA"
  },
@@ -3041,7 +3045,7 @@
   "name": "The Explorers"
  },
  "id:tiji.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "TiJi"
  },
@@ -3058,7 +3062,7 @@
   "name": "TJK TV"
  },
  "id:tjktv2.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TJK TV 2"
  },
@@ -3081,12 +3085,12 @@
   "name": "TNT"
  },
  "id:tnt4.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "TNT4"
  },
  "id:tnvplanet.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "TNV-Planet"
  },
@@ -3097,12 +3101,12 @@
   "name": "TNV-Tatarstan"
  },
  "id:tochkaotryva.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Tochka otryva"
  },
  "id:tochkatv.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Tochka TV"
  },
@@ -3113,7 +3117,7 @@
   "name": "Tolk"
  },
  "id:tolyatti24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Тольятти 24"
  },
@@ -3148,7 +3152,7 @@
   "name": "Travel Channel"
  },
  "id:travelplusadventure.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Travel+Adventure"
  },
@@ -3183,12 +3187,13 @@
   "name": "TRT Avaz"
  },
  "id:trtbelgesel.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TRT Belgesel"
  },
  "id:trtcocuk.tr": {
-  "fails": 1,
+  "fails": 0,
+  "last_ok": "2026-11-14",
   "list": "Türkiyə",
   "name": "TRT Cocuk"
  },
@@ -3217,7 +3222,7 @@
   "name": "TRT EBA Lise"
  },
  "id:trtgenc.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TRT Genc"
  },
@@ -3240,7 +3245,7 @@
   "name": "TRT Muzik"
  },
  "id:trtspor.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TRT Spor"
  },
@@ -3269,12 +3274,12 @@
   "name": "Tsargrad TV"
  },
  "id:turkhabertv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TurkHaber TV"
  },
  "id:turksattanitim.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Turksat Tanitim"
  },
@@ -3285,7 +3290,7 @@
   "name": "Министерство Идей"
  },
  "id:tv1.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TV 1"
  },
@@ -3320,17 +3325,17 @@
   "name": "TV 4"
  },
  "id:tv41.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TV 41"
  },
  "id:tv42.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TV 42"
  },
  "id:tv52.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TV 52"
  },
@@ -3365,12 +3370,12 @@
   "name": "TV Den"
  },
  "id:tvk.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "TVK"
  },
  "id:tvnet.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TVNET"
  },
@@ -3411,12 +3416,12 @@
   "name": "Ugra-TV"
  },
  "id:ulketv.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Ulke TV"
  },
  "id:unikum.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Unikum"
  },
@@ -3433,7 +3438,7 @@
   "name": "Unknown Russia"
  },
  "id:ural24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Ural 24"
  },
@@ -3462,47 +3467,47 @@
   "name": "Vav TV"
  },
  "id:velveteuropeanmovies.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Velvet. European Movies"
  },
  "id:velvetgoldencollection.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Velvet. Golden Collection"
  },
  "id:velvetmentovskiyeserialy.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Velvet. Mentovskiye Serialy"
  },
  "id:velvetscary.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Velvet. Scary"
  },
  "id:velvetserieshits.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Velvet. Series Hits"
  },
  "id:velvetsovetskoekino.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Velvet. Sovetskoe Kino"
  },
  "id:velvetsvaty.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Velvet. Svaty"
  },
  "id:velvetworldseries.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Velvet. World Series"
  },
  "id:vera24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Vera 24"
  },
@@ -3525,7 +3530,7 @@
   "name": "V gostyakh u skazki"
  },
  "id:viasathistory.tr": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "Viasat History"
  },
@@ -3620,7 +3625,7 @@
   "name": "Vilayet TV"
  },
  "id:vitaldrive.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Vital Drive"
  },
@@ -3631,7 +3636,7 @@
   "name": "Vitrina TV"
  },
  "id:vivarussia.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "VIVA Russia"
  },
@@ -3660,7 +3665,7 @@
   "name": "Volga"
  },
  "id:volgograd24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Volgograd 24"
  },
@@ -3671,7 +3676,7 @@
   "name": "Volleyball"
  },
  "id:vostok24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Vostok 24"
  },
@@ -3682,12 +3687,12 @@
   "name": "Vremya"
  },
  "id:xezertv.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "Xezer TV"
  },
  "id:xezerxeber.az": {
-  "fails": 1,
+  "fails": 2,
   "list": "Azərbaycan",
   "name": "Xəzər Xəbər"
  },
@@ -3698,7 +3703,7 @@
   "name": "Якутия 24"
  },
  "id:yaltatv.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Yalta TV"
  },
@@ -3727,7 +3732,7 @@
   "name": "Zagorodnaya Zhizn"
  },
  "id:zapad24.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Zapad 24"
  },
@@ -3762,17 +3767,17 @@
   "name": "Zhivaya priroda"
  },
  "id:zhivi.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Zhivi!"
  },
  "id:zoopark.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Zoopark"
  },
  "id:zootv.ru": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Zoo TV"
  },
@@ -3795,12 +3800,12 @@
   "name": "Смотрим: Честный Детектив"
  },
  "n:smotrimmelodramy": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Смотрим: Мелодрамы"
  },
  "n:smotrimtayny": {
-  "fails": 1,
+  "fails": 2,
   "list": "Rusiya",
   "name": "Смотрим: Тайны"
  },
@@ -3829,7 +3834,7 @@
   "name": "TRT Müzik"
  },
  "n:trtspor2": {
-  "fails": 1,
+  "fails": 2,
   "list": "Türkiyə",
   "name": "TRT Spor 2 Ⓖ"
  },

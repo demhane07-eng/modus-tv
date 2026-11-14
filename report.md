@@ -1,12 +1,12 @@
 # Kanal hesabatı — 2026-11-14
 
-İşləyən: **480** · bu gün işləməyən: **192**
+İşləyən: **478** · bu gün işləməyən: **189** · ehtiyat linklər: **63**
 
 | Siyahı | İşləyən |
 |---|---|
 | Azərbaycan | 11 |
-| Türkiyə | 130 |
-| Rusiya | 339 |
+| Türkiyə | 132 |
+| Rusiya | 335 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
@@ -80,6 +80,7 @@
 - National Geographic (Rusiya)
 - National Geographic Wild (Rusiya)
 - Nauka (Rusiya)
+- Novorossiya TV (Rusiya)
 - Okko Prajm Sport (Rusiya)
 - Patriot (Rusiya)
 - Perviy Krymskiy (Rusiya)
@@ -101,6 +102,7 @@
 - Sibir 24 (Rusiya)
 - Simferopol 24 (Rusiya)
 - Solnce (Rusiya)
+- Soyuzny (Rusiya)
 - Star Cinema (Rusiya)
 - Start Triumf (Rusiya)
 - SuperGeroi (Rusiya)
@@ -149,7 +151,6 @@
 - Смотрим: Тайны (Rusiya)
 - Спас Ⓢ (Rusiya)
 - Тольятти 24 (Rusiya)
-- ATV (Türkiyə)
 - ATV Avrupa (Türkiyə)
 - Al-Rafidain TV (Türkiyə)
 - Altas TV (Türkiyə)
@@ -160,11 +161,9 @@
 - Bursa TV (Türkiyə)
 - Cay TV (Türkiyə)
 - Cekmekoy TV (Türkiyə)
-- DHA (Türkiyə)
 - Disney Jr. (Türkiyə)
 - ETV Manisa (Türkiyə)
 - FX (Türkiyə)
-- Finans Turk TV (Türkiyə)
 - Fortuna TV (Türkiyə)
 - GZT (Türkiyə)
 - Guneydogu TV (Türkiyə)
@@ -178,7 +177,6 @@
 - Line TV (Türkiyə)
 - MTurk TV (Türkiyə)
 - MovieSmart Turk (Türkiyə)
-- NOW (Türkiyə)
 - National Geographic (Türkiyə)
 - National Geographic Wild (Türkiyə)
 - Natural TV (Türkiyə)
@@ -188,7 +186,6 @@
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
 - TRT Belgesel (Türkiyə)
-- TRT Cocuk (Türkiyə)
 - TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)

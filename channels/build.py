@@ -7,6 +7,7 @@ Every run:
   2. Merges them per channel (a channel can have several links; the first working one is used).
   3. Applies overrides.json (renames, hidden channels, extra channels).
   4. Checks every link and publishes only working channels to playlists/.
+     Links whose sound Android plays (AAC/MP3) go first; links with MP2/AC-3 or no sound become backups.
   5. Remembers when each channel last worked (state.json) and writes report.md.
 
 Channels are never deleted from the sources: a channel that fails today is left out of today's
@@ -17,6 +18,8 @@ import datetime as dt
 import json
 import os
 import re
+import shutil
+import subprocess
 import sys
 import time
 import unicodedata
@@ -153,11 +156,13 @@ def main():
     by_name = {}  # (list, normalised name) -> key; joins a source without tvg-id to the same channel in another source
     skip = re.compile(cfg.get("skip_url_pattern", r"$^"), re.I)
 
-    def add(entry, country, source):
+    def add(entry, country, source, merge_only=False):
         url = entry.get("url", "")
         if not url or skip.search(url):
             return
         key = channel_key(entry)
+        if merge_only and key not in channels:
+            return  # only extra links for channels this country already has
         nkey = (country["label"], norm(clean_name(entry["name"])))
         if key not in channels and nkey[1] and nkey in by_name:
             other = channels[by_name[nkey]]
@@ -196,6 +201,16 @@ def main():
             if e["attrs"].get("group-title", "").lower() == country.get("freetv", "").lower():
                 add(e, country, "free-tv")
 
+    # more links for the same channels: iptv-org keeps every stream in its repository,
+    # the country lists above sometimes carry only one of them
+    for code, country in cfg["countries"].items():
+        for src in cfg.get("iptv_streams", []):
+            try:
+                for e in parse_m3u(fetch(src.format(code=code))):
+                    add(e, country, "iptv-org-streams", merge_only=True)
+            except Exception as e:
+                print(f"streams {code}:", e)
+
     # overrides: extra channels
     for x in over.get("extra", []):
         e = {"name": x["name"], "url": x["url"], "attrs": {"tvg-id": x.get("id", ""), "group-title": x.get("group", "General"),
@@ -230,6 +245,35 @@ def main():
         except Exception:
             return False
 
+    # sound: Android's own player plays AAC/MP3/Opus everywhere; AC-3 only on some boxes; MP2 nowhere
+    ffprobe = shutil.which("ffprobe")
+    AUDIO_RANK = {"aac": 0, "mp3": 0, "opus": 0, "vorbis": 0, "flac": 0, "ac3": 2, "eac3": 2, "mp2": 3, "mp1": 3, "dts": 3}
+
+    def audio_rank(url, opts):
+        """0 = sound plays, 1 = unknown, 2 = only on some devices, 3 = no sound on Android."""
+        if not ffprobe:
+            return 1
+        ua, ref = UA, ""
+        for o in opts:
+            if "http-user-agent=" in o:
+                ua = o.split("=", 1)[1]
+            if "http-referrer=" in o:
+                ref = o.split("=", 1)[1]
+        cmd = [ffprobe, "-v", "error", "-rw_timeout", "10000000", "-user_agent", ua]
+        if ref:
+            cmd += ["-headers", f"Referer: {ref}\r\n"]
+        cmd += ["-select_streams", "a", "-show_entries", "stream=codec_name", "-of", "csv=p=0", url]
+        try:
+            res = subprocess.run(cmd, capture_output=True, text=True, timeout=25)
+        except Exception:
+            return 1
+        if res.returncode != 0:
+            return 1  # could not open it from here (often blocked outside the region)
+        codecs = [c.strip().lower() for c in res.stdout.splitlines() if c.strip()]
+        if not codecs:
+            return 3  # it opened but carries no sound
+        return min(AUDIO_RANK.get(c, 1) for c in codecs)
+
     # every link of a channel is checked; working ones go first, the rest stay as backups
     # (a link that fails from GitHub's server may still work in Azerbaijan)
     def check(ch):
@@ -237,9 +281,14 @@ def main():
         for url, opts in ch["urls"]:
             (good if works(url, opts) else bad).append((url, opts))
         if not good:
-            return ch, None, None, []
+            return ch, None, None, [], None
+        rank = None
+        if len(good) > 1 and ffprobe:
+            ranks = {u: audio_rank(u, o) for u, o in good[:6]}
+            good.sort(key=lambda x: ranks.get(x[0], 1))  # stable: same rank keeps the source order
+            rank = ranks.get(good[0][0])
         url, opts = good[0]
-        return ch, url, opts, [u for u, _ in good[1:] + bad]
+        return ch, url, opts, [u for u, _ in good[1:] + bad], rank
 
     results = []
     with cf.ThreadPoolExecutor(max_workers=cfg.get("workers", 24)) as pool:
@@ -252,7 +301,10 @@ def main():
     head = f'#EXTM3U x-tvg-url="{epg}"\n' if epg else "#EXTM3U\n"
     per_list = {}
     ok_count, report_dead, backup_count = 0, [], 0
-    for ch, url, opts, alts in results:
+    silent = []
+    for ch, url, opts, alts, rank in results:
+        if rank == 3:
+            silent.append(ch["name"])
         st = state.setdefault(ch["key"], {"name": ch["name"], "list": ch["list"]})
         st["name"], st["list"] = ch["name"], ch["list"]
         if not url:
@@ -301,6 +353,8 @@ def main():
         rep.append(f"| {country['label']} | {len(per_list.get(country['label'], []))} |")
     rep += ["", "## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)", ""]
     rep += [f"- {c['name']} ({c['list']})" for c in sorted(report_dead, key=lambda c: (c['list'], c['name']))] or ["—"]
+    rep += ["", "## Səsi Android-də çıxmayanlar (səsli link tapılmadı)", ""]
+    rep += [f"- {n}" for n in sorted(silent)] or ["—"]
     rep += ["", f"## {cfg.get('report_after_days', 30)}+ gündür işləməyənlər (yeni link lazımdır)", ""]
     rep += [f"- {s['name']} ({s['list']}) · son işləmə: {s.get('last_ok', 'heç vaxt')}" for s in long_dead] or ["—"]
     with open(os.path.join(ROOT, "report.md"), "w", encoding="utf-8") as f:

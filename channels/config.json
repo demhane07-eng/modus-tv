@@ -1,8 +1,17 @@
 {
   "countries": {
-    "az": {"label": "Azərbaycan", "freetv": "Azerbaijan"},
-    "tr": {"label": "Türkiyə", "freetv": "Turkey"},
-    "ru": {"label": "Rusiya", "freetv": "Russia"}
+    "az": {
+      "label": "Azərbaycan",
+      "freetv": "Azerbaijan"
+    },
+    "tr": {
+      "label": "Türkiyə",
+      "freetv": "Turkey"
+    },
+    "ru": {
+      "label": "Rusiya",
+      "freetv": "Russia"
+    }
   },
   "iptv_org": "https://iptv-org.github.io/iptv/",
   "iptv_api": "https://iptv-org.github.io/api/",
@@ -14,5 +23,8 @@
   "skip_url_pattern": "youtube\\.com|youtu\\.be",
   "timeout": 12,
   "workers": 24,
-  "report_after_days": 30
+  "report_after_days": 30,
+  "iptv_streams": [
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/{code}.m3u"
+  ]
 }

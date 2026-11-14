@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "3.9",
+  "versionCode": 18,
+  "versionName": "3.10",
   "apk": "M-ModusTV.apk",
-  "notes": "İki dil: Azərbaycan və rus. Ayarlar → Görüntü → Dil / Язык. Два языка: азербайджанский и русский."
+  "notes": "Donanda kanal özü yenidən qoşulur, lazım olsa ehtiyat linkə keçir. Telefonda Siyahı + Kateqoriya seçimi. Axtarışda kateqoriya seçmək olar. Səhvlər düzəldildi."
 }

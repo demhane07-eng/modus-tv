@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "3.5.1",
+  "versionCode": 13,
+  "versionName": "3.6",
   "apk": "M-ModusTV.apk",
-  "notes": "Telefonda \"köhnə Android\" xəbərdarlığı aradan qalxdı. Telefonda da işləyir. Kateqoriyalar rusca."
+  "notes": "Ön baxış siyahıda gəzəndə dayanmır. Telefondan yazaraq axtarış. Telefon qoşulması açılıb-bağlanır və şifrəlidir; telefondan TV-dəki fayllara baxmaq. Kanal kəsiləndə özü yenidən qoşulur. Çoxlu kiçik düzəliş."
 }

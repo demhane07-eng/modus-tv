@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "3.7",
+  "versionCode": 15,
+  "versionName": "3.7.1",
   "apk": "M-ModusTV.apk",
-  "notes": "M-Modus Brauzer və M-Modus Pult üçün hazırlıq: eyni şifrə hər iki proqramda işləyir. Telefon qoşulması daha təhlükəsiz."
+  "notes": "Yeni ikon (TV nişanı). Telefonda ilk açılışda ana ekrana əlavə etməyi təklif edir."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4",
+  "versionCode": 7,
+  "versionName": "1.5",
   "apk": "M-ModusBrauzer.apk",
-  "notes": "Ekran kənarları avtomatik: M-Modus TV-dəki ayarı götürür (yoxdursa 3%), kənarlar kəsilmir."
+  "notes": "Ekran kənarları: avtomatik olaraq M-Modus TV qədər boşluq qalır, kənarlar kəsilmir."
 }

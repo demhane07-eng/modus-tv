@@ -15,9 +15,9 @@ https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-id="86.ru" tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="General" x-list="Rusiya",86
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="General" x-list="Rusiya",360°
-#EXTALT:https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTALT:https://streaming.thestream.cyou/live/7000.m3u8
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTALT:https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 tvg-id="360News.ru" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="News" x-list="Rusiya" x-native-name="360° Новости",360° News
 #EXTALT:https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
@@ -128,10 +128,6 @@ http://31.148.5.241/kanal_5/index.m3u8
 #EXTALT:http://tshift-1.telecoma.tv/8channel/index.m3u8
 #EXTALT:http://v4.proofix.ru/okino-tv/index.m3u8
 https://v4.proofix.ru/8tv-russia/index.m3u8
-#EXTINF:-1 tvg-id="Channel8Krasnoyarsk.ru" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="General" x-list="Rusiya" x-native-name="8 канал Красноярск",Channel 8 Krasnoyarsk HD
-#EXTVLCOPT:http-referrer=https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Channel8Novosibirsk.ru" tvg-logo="https://i.imgur.com/eHGETvU.png" group-title="General" x-list="Rusiya" x-native-name="8 канал Новосибирск",Channel 8 Novosibirsk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
@@ -148,9 +144,6 @@ https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 tvg-id="Channel16.ru" tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="General" x-list="Rusiya" x-native-name="Канал-16",Channel-16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-id="Che.ru" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Entertainment" x-list="Rusiya" x-native-name="Че!",Che!
-#EXTALT:http://flussonic.linkintel.ru/che/index.m3u8
-http://176.118.197.101/Che/index.m3u8
 #EXTINF:-1 tvg-id="Cinema.ru" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="Movies" x-list="Rusiya",Cinema
 #EXTALT:http://flussonic.linkintel.ru/cinema/index.m3u8
 #EXTALT:http://catchup.videoline.ru/cinema/playlist.m3u8
@@ -360,8 +353,8 @@ http://stream.mcquack.net/133/index.m3u8
 #EXTALT:https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-logo="https://i.imgur.com/s0UYT8T.png" group-title="Movies" x-list="Rusiya" x-native-name="Кинопремьера",Kinopremyera
-#EXTALT:http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTALT:https://fs.uplink.kz/kinopremiera_hd/mono.m3u8?token=onlinetv
+#EXTALT:http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-logo="https://i.imgur.com/4BF5VeK.png" group-title="Movies" x-list="Rusiya" x-native-name="Киносемья",Kinosemja
 #EXTALT:https://fs.uplink.kz/kinosemya/mono.m3u8?token=onlinetv
@@ -692,7 +685,7 @@ http://31.148.5.241/kanal_21/index.m3u8
 #EXTALT:https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTALT:https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTALT:https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTALT:http://109.207.243.18/2/index.m3u8
+#EXTALT:http://31.148.5.241/kanal_2/index.m3u8
 http://176.118.197.101/RossiyaHD/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="News" x-list="Rusiya" x-native-name="Россия-24",Russia-24
 #EXTALT:http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8

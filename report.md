@@ -1,12 +1,12 @@
-# Kanal hesabatı — 2026-11-14
+# Kanal hesabatı — 2026-11-15
 
-İşləyən: **523** · bu gün işləməyən: **144** · ehtiyat linklər: **352**
+İşləyən: **522** · bu gün işləməyən: **145** · ehtiyat linklər: **350**
 
 | Siyahı | İşləyən |
 |---|---|
 | Azərbaycan | 12 |
-| Türkiyə | 137 |
-| Rusiya | 374 |
+| Türkiyə | 138 |
+| Rusiya | 372 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
@@ -28,6 +28,7 @@
 - Arktika 24 (Rusiya)
 - Bashkortostan 24 (Rusiya)
 - Big Planet (Rusiya)
+- Che! (Rusiya)
 - City Eden KinoSemya (Rusiya)
 - Crimea 24 (Rusiya)
 - Detskoe kino (Rusiya)
@@ -142,8 +143,8 @@
 - S Sport 2 (Türkiyə)
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
-- TRT 2 (Türkiyə)
-- TRT Genc (Türkiyə)
+- TRT Belgesel (Türkiyə)
+- TRT Cocuk (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
 - TV 1 (Türkiyə)

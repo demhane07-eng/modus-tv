@@ -225,6 +225,8 @@ def main():
     print(f"{len(todo)} channels, {sum(len(c['urls']) for c in todo)} links to check")
 
     # check links (first working link wins)
+    multi = set()  # links that offer several quality levels (the app can step down on a weak network)
+
     def works(url, opts):
         headers = {"User-Agent": UA}
         for o in opts:
@@ -237,8 +239,10 @@ def main():
             with urllib.request.urlopen(req, timeout=cfg.get("timeout", 12)) as r:
                 if r.status >= 400:
                     return False
-                head = r.read(2048)
+                head = r.read(8192)
                 ctype = (r.headers.get("Content-Type") or "").lower()
+                if head.count(b"#EXT-X-STREAM-INF") >= 2:
+                    multi.add(url)
                 if b"#EXTM3U" in head or b"#EXT-X" in head:
                     return True
                 return "video" in ctype or "mpegurl" in ctype or "octet-stream" in ctype or head[:1] == b"G"
@@ -301,10 +305,12 @@ def main():
     head = f'#EXTM3U x-tvg-url="{epg}"\n' if epg else "#EXTM3U\n"
     per_list = {}
     ok_count, report_dead, backup_count = 0, [], 0
-    silent = []
+    silent, nmulti = [], 0
     for ch, url, opts, alts, rank in results:
         if rank == 3:
             silent.append(ch["name"])
+        if url in multi:
+            nmulti += 1
         st = state.setdefault(ch["key"], {"name": ch["name"], "list": ch["list"]})
         st["name"], st["list"] = ch["name"], ch["list"]
         if not url:
@@ -347,7 +353,7 @@ def main():
 
     # report
     long_dead = sorted((s for s in state.values() if s.get("fails", 0) >= cfg.get("report_after_days", 30)), key=lambda s: s["name"])
-    rep = [f"# Kanal hesabatı — {today}", "", f"İşləyən: **{ok_count}** · bu gün işləməyən: **{len(report_dead)}** · ehtiyat linklər: **{backup_count}**", "",
+    rep = [f"# Kanal hesabatı — {today}", "", f"İşləyən: **{ok_count}** · bu gün işləməyən: **{len(report_dead)}** · ehtiyat linklər: **{backup_count}** · bir neçə keyfiyyətdə: **{nmulti}**", "",
            "| Siyahı | İşləyən |", "|---|---|"]
     for code, country in cfg["countries"].items():
         rep.append(f"| {country['label']} | {len(per_list.get(country['label'], []))} |")

@@ -1,12 +1,12 @@
 # Kanal hesabatı — 2026-11-15
 
-İşləyən: **522** · bu gün işləməyən: **145** · ehtiyat linklər: **350**
+İşləyən: **515** · bu gün işləməyən: **152** · ehtiyat linklər: **350** · bir neçə keyfiyyətdə: **130**
 
 | Siyahı | İşləyən |
 |---|---|
 | Azərbaycan | 12 |
-| Türkiyə | 138 |
-| Rusiya | 372 |
+| Türkiyə | 139 |
+| Rusiya | 364 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
@@ -29,7 +29,12 @@
 - Bashkortostan 24 (Rusiya)
 - Big Planet (Rusiya)
 - Che! (Rusiya)
+- City Eden KinoKlassika (Rusiya)
+- City Eden KinoMistika (Rusiya)
 - City Eden KinoSemya (Rusiya)
+- City Eden MedZdrav (Rusiya)
+- City Eden Play (Rusiya)
+- City Eden Recepty Gurmana (Rusiya)
 - Crimea 24 (Rusiya)
 - Detskoe kino (Rusiya)
 - Detvora+ (Rusiya)
@@ -56,7 +61,9 @@
 - MCM Top (Rusiya)
 - Match! Planeta (Rusiya)
 - Millet (Rusiya)
+- NTS (Rusiya)
 - National Geographic Wild (Rusiya)
+- Nizhniy Novgorod 24 (Rusiya)
 - Novorossiya TV (Rusiya)
 - Okko Prajm Sport (Rusiya)
 - Patriot (Rusiya)
@@ -73,6 +80,7 @@
 - Seven (Rusiya)
 - Sibir 24 (Rusiya)
 - Simferopol 24 (Rusiya)
+- Sportivnyy (Rusiya)
 - Start Triumf (Rusiya)
 - TERRA (Rusiya)
 - TVK (Rusiya)
@@ -143,14 +151,13 @@
 - S Sport 2 (Türkiyə)
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
-- TRT Belgesel (Türkiyə)
-- TRT Cocuk (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
 - TV 1 (Türkiyə)
 - TV 42 (Türkiyə)
 - TV 52 (Türkiyə)
 - TVNET (Türkiyə)
+- Tele 1 (Türkiyə)
 - TurkHaber TV (Türkiyə)
 - Turksat Tanitim (Türkiyə)
 - Ulke TV (Türkiyə)

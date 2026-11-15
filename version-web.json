@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2",
+  "versionCode": 5,
+  "versionName": "1.3",
   "apk": "M-ModusBrauzer.apk",
-  "notes": "Video başlayanda özü tam ekran olur. Pultla: OK pauza, ◄ ► 10 san (basılı saxlasan 30 san), ▲▼ vaxt. Ekran kənarları və video ölçüsü ayarı."
+  "notes": "Saytlar ekrana avtomatik uyğunlaşır (Menyu → Görünüş → Ekrana uyğunlaşdır). Video özü tam ekran olur, pultla idarə."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "3.10",
+  "versionCode": 19,
+  "versionName": "3.11",
   "apk": "M-ModusTV.apk",
-  "notes": "Donanda kanal özü yenidən qoşulur, lazım olsa ehtiyat linkə keçir. Telefonda Siyahı + Kateqoriya seçimi. Axtarışda kateqoriya seçmək olar. Səhvlər düzəldildi."
+  "notes": "Keyfiyyət: kanal orta keyfiyyətlə tez açılır, sonra yüksəlir; donanda keyfiyyət özü azalır. Ayarlar → Görüntü → Keyfiyyət (Avto / Qənaətli / Ən yaxşı)."
 }

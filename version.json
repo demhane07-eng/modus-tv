@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "3.13",
+  "versionCode": 22,
+  "versionName": "3.14",
   "apk": "M-ModusTV.apk",
-  "notes": "Yeni: Ekran qəbulu — kompüterin ekranını televizora göndərmək (menyu → Ekran qəbulu). Ayarlar → Ekran qəbulu bölməsində açın və parol qoyun."
+  "notes": "Ekran qəbulu düzəldi: yeni ünvan modus-tv.local:9443 (8443 box-un daxili Chromecast xidməti ilə məşğul idi)."
 }

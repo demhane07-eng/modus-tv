@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5",
+  "versionCode": 8,
+  "versionName": "1.6",
   "apk": "M-ModusBrauzer.apk",
-  "notes": "Ekran kənarları: avtomatik olaraq M-Modus TV qədər boşluq qalır, kənarlar kəsilmir."
+  "notes": "Saytlar ekrana sığır. Başlatdığınız video M-Modus pleyerində açılır: pultla və siçanla pauza, irəli-geri, sürüşdürmə."
 }

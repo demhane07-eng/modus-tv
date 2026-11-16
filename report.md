@@ -1,18 +1,19 @@
-# Kanal hesabatı — 2026-11-15
+# Kanal hesabatı — 2026-11-16
 
-İşləyən: **515** · bu gün işləməyən: **152** · ehtiyat linklər: **350** · bir neçə keyfiyyətdə: **130**
+İşləyən: **519** · bu gün işləməyən: **148** · ehtiyat linklər: **349** · bir neçə keyfiyyətdə: **131**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 12 |
-| Türkiyə | 139 |
-| Rusiya | 364 |
+| Azərbaycan | 11 |
+| Türkiyə | 135 |
+| Rusiya | 373 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
 - Alvin Channel TV (Azərbaycan)
 - AnewZ TV (Azərbaycan)
 - CBC Sport (Azərbaycan)
+- GunAz TV (Azərbaycan)
 - Ictimai TV (Azərbaycan)
 - Kanal 35 (Azərbaycan)
 - Medeniyyet TV (Azərbaycan)
@@ -20,7 +21,6 @@
 - Xezer TV (Azərbaycan)
 - Xəzər Xəbər (Azərbaycan)
 - 15+ Music (Rusiya)
-- 6 TV Gorlovka (Rusiya)
 - A1 (Rusiya)
 - A2 (Rusiya)
 - Afontovo (Rusiya)
@@ -29,12 +29,7 @@
 - Bashkortostan 24 (Rusiya)
 - Big Planet (Rusiya)
 - Che! (Rusiya)
-- City Eden KinoKlassika (Rusiya)
-- City Eden KinoMistika (Rusiya)
 - City Eden KinoSemya (Rusiya)
-- City Eden MedZdrav (Rusiya)
-- City Eden Play (Rusiya)
-- City Eden Recepty Gurmana (Rusiya)
 - Crimea 24 (Rusiya)
 - Detskoe kino (Rusiya)
 - Detvora+ (Rusiya)
@@ -61,10 +56,8 @@
 - MCM Top (Rusiya)
 - Match! Planeta (Rusiya)
 - Millet (Rusiya)
-- NTS (Rusiya)
+- Muzyka Kino (Rusiya)
 - National Geographic Wild (Rusiya)
-- Nizhniy Novgorod 24 (Rusiya)
-- Novorossiya TV (Rusiya)
 - Okko Prajm Sport (Rusiya)
 - Patriot (Rusiya)
 - Perviy Krymskiy (Rusiya)
@@ -80,7 +73,6 @@
 - Seven (Rusiya)
 - Sibir 24 (Rusiya)
 - Simferopol 24 (Rusiya)
-- Sportivnyy (Rusiya)
 - Start Triumf (Rusiya)
 - TERRA (Rusiya)
 - TVK (Rusiya)
@@ -120,6 +112,7 @@
 - Смотрим: Тайны (Rusiya)
 - Спас Ⓢ (Rusiya)
 - Тольятти 24 (Rusiya)
+- ATV (Türkiyə)
 - ATV Avrupa (Türkiyə)
 - Al-Rafidain TV (Türkiyə)
 - Altas TV (Türkiyə)
@@ -151,6 +144,9 @@
 - S Sport 2 (Türkiyə)
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
+- TRT 2 (Türkiyə)
+- TRT Belgesel (Türkiyə)
+- TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
 - TV 1 (Türkiyə)

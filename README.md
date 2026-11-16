@@ -6,7 +6,7 @@ Mi Box (Android TV) və Android telefon üçün üç proqram və kanal siyahıs�
 |---|---|---|
 | **M-Modus TV** (`M-ModusTV.apk`) | Box və telefon | IPTV: Azərbaycan, Türkiyə, Rusiya kanalları, TV proqramı, fayl meneceri |
 | **M-Modus Brauzer** (`M-ModusBrauzer.apk`) | Box | Saytlar, video, yükləmələr; pultla kursor |
-| **M-Modus Pult** (`M-ModusPult.apk`) | Telefon | TV-ni və Brauzeri idarə edir, telefonun klaviaturası ilə yazır, fayl göndərir |
+| **M-Modus Pult** (`M-ModusPult.apk`) | Telefon | TV-ni və Brauzeri idarə edir, telefonun klaviaturası ilə yazır, fayl göndərir, telefonun ekranını TV-yə göndərir |
 
 Telefondan qoşulma M-Modus TV-də açılıb-bağlanır (Ayarlar → Telefon və kompüter) və istifadəçi adı ilə şifrə tələb edir. Eyni ayar Brauzer üçün də keçərlidir.
 

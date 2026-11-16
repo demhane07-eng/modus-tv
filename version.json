@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.14",
+  "versionCode": 23,
+  "versionName": "3.15",
   "apk": "M-ModusTV.apk",
-  "notes": "Ekran qəbulu düzəldi: yeni ünvan modus-tv.local:9443 (8443 box-un daxili Chromecast xidməti ilə məşğul idi)."
+  "notes": "Ekran qəbulu: telefondan göndərmək üçün QR kod (M-Modus Pult 1.2 lazımdır)."
 }

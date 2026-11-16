@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "3.15",
+  "versionCode": 24,
+  "versionName": "3.16",
   "apk": "M-ModusTV.apk",
-  "notes": "Ekran qəbulu: telefondan göndərmək üçün QR kod (M-Modus Pult 1.2 lazımdır)."
+  "notes": "Ekran qəbulu: brauzerin ilk xəbərdarlığı artıq xəta kimi göstərilmir."
 }

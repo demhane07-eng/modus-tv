@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.16",
+  "versionCode": 25,
+  "versionName": "3.17",
   "apk": "M-ModusTV.apk",
-  "notes": "Ekran qəbulu: brauzerin ilk xəbərdarlığı artıq xəta kimi göstərilmir."
+  "notes": "Telefondan göndərəndə telefonu çevirmək artıq görüntünü pozmur."
 }

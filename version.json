@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "3.12",
+  "versionCode": 21,
+  "versionName": "3.13",
   "apk": "M-ModusTV.apk",
-  "notes": "Ekran kənarları ayarı M-Modus Brauzer ilə paylaşılır. Keyfiyyət: donanda azalır, sonra yüksəlir (Ayarlar → Görüntü → Keyfiyyət)."
+  "notes": "Yeni: Ekran qəbulu — kompüterin ekranını televizora göndərmək (menyu → Ekran qəbulu). Ayarlar → Ekran qəbulu bölməsində açın və parol qoyun."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6",
+  "versionCode": 9,
+  "versionName": "1.7",
   "apk": "M-ModusBrauzer.apk",
-  "notes": "Saytlar ekrana sığır. Başlatdığınız video M-Modus pleyerində açılır: pultla və siçanla pauza, irəli-geri, sürüşdürmə."
+  "notes": "Ekran kənarları Avto-ya qaytarıldı (köhnə versiyadan qalan 0% ayarı silindi)."
 }

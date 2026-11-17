@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "3.17",
+  "versionCode": 26,
+  "versionName": "3.18",
   "apk": "M-ModusTV.apk",
-  "notes": "Telefondan göndərəndə telefonu çevirmək artıq görüntünü pozmur."
+  "notes": "İndi baxdığınız kanal siyahılarda “İNDİ” nişanı ilə görünür; pultla sütunlar arasında keçəndə harada olduğunuz aydın görünür."
 }

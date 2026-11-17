@@ -1,19 +1,18 @@
-# Kanal hesabatı — 2026-11-16
+# Kanal hesabatı — 2026-11-17
 
-İşləyən: **519** · bu gün işləməyən: **148** · ehtiyat linklər: **349** · bir neçə keyfiyyətdə: **131**
+İşləyən: **531** · bu gün işləməyən: **136** · ehtiyat linklər: **354** · bir neçə keyfiyyətdə: **131**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 11 |
-| Türkiyə | 135 |
-| Rusiya | 373 |
+| Azərbaycan | 12 |
+| Türkiyə | 136 |
+| Rusiya | 383 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
 - Alvin Channel TV (Azərbaycan)
 - AnewZ TV (Azərbaycan)
 - CBC Sport (Azərbaycan)
-- GunAz TV (Azərbaycan)
 - Ictimai TV (Azərbaycan)
 - Kanal 35 (Azərbaycan)
 - Medeniyyet TV (Azərbaycan)
@@ -27,7 +26,6 @@
 - Amedia Premium (Rusiya)
 - Arktika 24 (Rusiya)
 - Bashkortostan 24 (Rusiya)
-- Big Planet (Rusiya)
 - Che! (Rusiya)
 - City Eden KinoSemya (Rusiya)
 - Crimea 24 (Rusiya)
@@ -36,28 +34,21 @@
 - DocuBox Russia (Rusiya)
 - Don 24 (Rusiya)
 - English Class (Rusiya)
-- Extreme Sports Channel (Rusiya)
 - FON Music (Rusiya)
 - Feniks plus Kino (Rusiya)
-- Friday! International Kazakhstan (Rusiya)
 - Gorodskoy telekanal (Rusiya)
 - Hollywood (Rusiya)
-- India (Rusiya)
-- Istoriya (Rusiya)
 - Kavkaz 24 (Rusiya)
 - Kineko (Rusiya)
 - Kino 24 (Rusiya)
 - KinoSat (Rusiya)
 - Kto est kto (Rusiya)
 - LDPR TV (Rusiya)
-- Lapki Live (Rusiya)
 - Legendarnyy 24 (Rusiya)
 - LenTV24 (Rusiya)
 - MCM Top (Rusiya)
-- Match! Planeta (Rusiya)
 - Millet (Rusiya)
-- Muzyka Kino (Rusiya)
-- National Geographic Wild (Rusiya)
+- Novorossiya TV (Rusiya)
 - Okko Prajm Sport (Rusiya)
 - Patriot (Rusiya)
 - Perviy Krymskiy (Rusiya)
@@ -68,7 +59,6 @@
 - Radio Shanson (Rusiya)
 - Russian Extreme (Rusiya)
 - Russkiy Illusion (Rusiya)
-- START World (Rusiya)
 - Samara 24 (Rusiya)
 - Seven (Rusiya)
 - Sibir 24 (Rusiya)
@@ -100,7 +90,6 @@
 - Zoo TV (Rusiya)
 - alpha Cinema (Rusiya)
 - o2tv (Rusiya)
-- Карусель Ⓢ (Rusiya)
 - Катунь 24 Ⓞ (Rusiya)
 - Матч ТВ Ⓢ (Rusiya)
 - Небеса ТВ7 Ⓢ (Rusiya)
@@ -112,13 +101,13 @@
 - Смотрим: Тайны (Rusiya)
 - Спас Ⓢ (Rusiya)
 - Тольятти 24 (Rusiya)
-- ATV (Türkiyə)
 - ATV Avrupa (Türkiyə)
 - Al-Rafidain TV (Türkiyə)
 - Altas TV (Türkiyə)
 - BBC Earth Turkiye (Türkiyə)
 - BabyTV Turkiye (Türkiyə)
 - Beyaz TV (Türkiyə)
+- Bir TV (Türkiyə)
 - Bursa TV (Türkiyə)
 - Cay TV (Türkiyə)
 - Cekmekoy TV (Türkiyə)
@@ -144,8 +133,8 @@
 - S Sport 2 (Türkiyə)
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
-- TRT 2 (Türkiyə)
 - TRT Belgesel (Türkiyə)
+- TRT Cocuk (Türkiyə)
 - TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
@@ -153,7 +142,6 @@
 - TV 42 (Türkiyə)
 - TV 52 (Türkiyə)
 - TVNET (Türkiyə)
-- Tele 1 (Türkiyə)
 - TurkHaber TV (Türkiyə)
 - Turksat Tanitim (Türkiyə)
 - Ulke TV (Türkiyə)
@@ -164,6 +152,7 @@
 - Baby Time
 - KVN TV
 - REN TV
+- TV 21
 
 ## 30+ gündür işləməyənlər (yeni link lazımdır)
 

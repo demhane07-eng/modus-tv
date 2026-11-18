@@ -1,23 +1,18 @@
-# Kanal hesabatı — 2026-11-17
+# Kanal hesabatı — 2026-11-18
 
-İşləyən: **531** · bu gün işləməyən: **136** · ehtiyat linklər: **354** · bir neçə keyfiyyətdə: **131**
+İşləyən: **512** · bu gün işləməyən: **151** · ehtiyat linklər: **354** · bir neçə keyfiyyətdə: **133**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 12 |
-| Türkiyə | 136 |
-| Rusiya | 383 |
+| Azərbaycan | 13 |
+| Türkiyə | 138 |
+| Rusiya | 361 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
-- Alvin Channel TV (Azərbaycan)
-- AnewZ TV (Azərbaycan)
 - CBC Sport (Azərbaycan)
 - Ictimai TV (Azərbaycan)
-- Kanal 35 (Azərbaycan)
-- Medeniyyet TV (Azərbaycan)
-- Naxcivan TV (Azərbaycan)
-- Xezer TV (Azərbaycan)
+- Mədəniyyət TV Ⓢ (Azərbaycan)
 - Xəzər Xəbər (Azərbaycan)
 - 15+ Music (Rusiya)
 - A1 (Rusiya)
@@ -27,7 +22,26 @@
 - Arktika 24 (Rusiya)
 - Bashkortostan 24 (Rusiya)
 - Che! (Rusiya)
+- City Eden AutoGid (Rusiya)
+- City Eden Birma Play (Rusiya)
+- City Eden Classic Music (Rusiya)
+- City Eden KinoAction (Rusiya)
+- City Eden KinoArt (Rusiya)
+- City Eden KinoAsia (Rusiya)
+- City Eden KinoDetektiv (Rusiya)
+- City Eden KinoDok (Rusiya)
+- City Eden KinoDrama (Rusiya)
+- City Eden KinoFantastika (Rusiya)
+- City Eden KinoKlassika (Rusiya)
+- City Eden KinoKomediya (Rusiya)
+- City Eden KinoMistika (Rusiya)
 - City Eden KinoSemya (Rusiya)
+- City Eden MedZdrav (Rusiya)
+- City Eden Play (Rusiya)
+- City Eden Recepty Gurmana (Rusiya)
+- City Eden Sirtaki TV (Rusiya)
+- City Eden TV (Rusiya)
+- City Eden TeleNovella (Rusiya)
 - Crimea 24 (Rusiya)
 - Detskoe kino (Rusiya)
 - Detvora+ (Rusiya)
@@ -48,7 +62,9 @@
 - LenTV24 (Rusiya)
 - MCM Top (Rusiya)
 - Millet (Rusiya)
+- NTV-Hit (Rusiya)
 - Novorossiya TV (Rusiya)
+- Okko Futbol (Rusiya)
 - Okko Prajm Sport (Rusiya)
 - Patriot (Rusiya)
 - Perviy Krymskiy (Rusiya)
@@ -82,6 +98,7 @@
 - Velvet. World Series (Rusiya)
 - Vera 24 (Rusiya)
 - Vital Drive (Rusiya)
+- Vkus (Rusiya)
 - Volgograd 24 (Rusiya)
 - Vostok 24 (Rusiya)
 - Yalta TV (Rusiya)
@@ -111,7 +128,6 @@
 - Bursa TV (Türkiyə)
 - Cay TV (Türkiyə)
 - Cekmekoy TV (Türkiyə)
-- DHA (Türkiyə)
 - Disney Jr. (Türkiyə)
 - ETV Manisa (Türkiyə)
 - FX (Türkiyə)
@@ -134,7 +150,6 @@
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
 - TRT Belgesel (Türkiyə)
-- TRT Cocuk (Türkiyə)
 - TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
@@ -150,9 +165,7 @@
 ## Səsi Android-də çıxmayanlar (səsli link tapılmadı)
 
 - Baby Time
-- KVN TV
 - REN TV
-- TV 21
 
 ## 30+ gündür işləməyənlər (yeni link lazımdır)
 

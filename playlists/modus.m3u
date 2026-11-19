@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News" x-list="Azərbaycan",APA Tv
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-id="AyazTV.az" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="General" x-list="Azərbaycan",Ayaz TV
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTALT:https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General" x-list="Azərbaycan",Az TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTALT:https://az.tvstream.az/hls/stream9/index.m3u8
 #EXTALT:https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTALT:https://str.yodacdn.net/azertv/index.m3u8
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTALT:http://185.32.44.154:80/aztv/index.m3u8
+https://operativmm.az/tvs/az/stream9/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General" x-list="Azərbaycan",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News" x-list="Azərbaycan",Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="General" x-list="Azərbaycan",EL TV
 #EXTALT:http://85.132.53.162:1935/live/eltv/playlist.m3u8
 https://live.eltv.az/live/eltv/playlist.m3u8
@@ -73,6 +73,8 @@ http://57.129.0.61:1990/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="General" x-list="Türkiyə",Benguturk TV
 #EXTALT:http://185.234.111.229:8000/play/a05u
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="BirTV.tr" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" group-title="Undefined" x-list="Türkiyə",Bir TV
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Business" x-list="Türkiyə",Bloomberg HT
 #EXTALT:https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTALT:http://193.123.61.120:3000/kanal/bloomberght
@@ -92,8 +94,6 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="General" x-list="Türkiyə",Deniz Postasi TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 tvg-id="DHA.tr" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News" x-list="Türkiyə",DHA
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" group-title="Religious" x-list="Türkiyə",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DiyarTV.tr" tvg-logo="https://i.imgur.com/qWkHjRA.png" group-title="Religious" x-list="Türkiyə",Diyar TV
@@ -213,8 +213,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids" x-list="Türkiyə",Minika Go
 #EXTALT:http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment" x-list="Türkiyə",NOW
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" group-title="General" x-list="Türkiyə",NTV
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="Music" x-list="Türkiyə",Number 1 Ask
@@ -353,8 +351,8 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment" x-list="Rusiya" x-native-name="Дважды два",2x2
 #EXTALT:http://185.23.80.23:8080/2x2/index.m3u8
-#EXTALT:https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTALT:http://stream.mcquack.net/187/index.m3u8
+#EXTALT:https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTALT:http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 tvg-id="3ABNRussia.ru" tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="Religious" x-list="Rusiya" x-native-name="Три Ангела",3ABN Russia
@@ -459,8 +457,8 @@ http://stream.mcquack.net/272/index.m3u8
 #EXTALT:http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="Music" x-list="Rusiya",BRIDGE Hits
-#EXTALT:http://stream.mcquack.net/320/index.m3u8
-http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTALT:http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="Music" x-list="Rusiya",BRIDGE Rock
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="BST.ru" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="Undefined" x-list="Rusiya" x-native-name="БСТ",BST
@@ -700,8 +698,8 @@ http://176.118.197.101/Komediya/index.m3u8
 #EXTINF:-1 tvg-id="Komediynoe.ru" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="Comedy" x-list="Rusiya" x-native-name="Комедийное",Komediynoe HD
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-logo="https://tvcongress.ru/bitrix/templates/mbntheme/img/logo_tvc.svg" group-title="General" x-list="Rusiya" x-native-name="Конгресс ТВ",Kongress TV
-#EXTALT:https://live-3.otcnet.ru/congresstv/index.m3u8
-https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+#EXTALT:https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
+https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-logo="https://i.imgur.com/rtuChZR.png" group-title="News" x-list="Rusiya" x-native-name="Крик-ТВ",Krik-TV
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="Kuban24.ru" tvg-logo="https://www.cableman.ru/sites/default/files/2022-03-23_02-09-35.png" group-title="General" x-list="Rusiya" x-native-name="Кубань 24",Kuban 24
@@ -754,10 +752,10 @@ http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTALT:http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
 http://stream.mcquack.net/143/index.m3u8
 #EXTINF:-1 tvg-id="MatchUltra.ru" tvg-logo="https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg" group-title="Sports" x-list="Rusiya" x-native-name="Матч! Ультра",Match! Ultra
+#EXTALT:http://31.148.5.241/kanal_3/index.m3u8
 #EXTALT:http://45.132.87.69:8080/match/index.m3u8
 #EXTALT:http://tv.tuva.ru/machtv/index.m3u8
 #EXTALT:https://fs.uplink.kz/match/mono.m3u8?token=onlinetv
-#EXTALT:http://31.148.5.241/kanal_3/index.m3u8
 http://stream.mcquack.net/169/index.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Music" x-list="Rusiya",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
@@ -900,6 +898,8 @@ https://mhd116.iptv2022.com/x/t4hRFz1R89Q6kjp3CL3WVQ,1792610109/streaming/sledst
 https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVVitrina.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/1280px-NTV_logo_2003.svg.png" group-title="General" x-list="Rusiya" x-native-name="НТВ Витрина",NTV Vitrina
 https://cdn.ntv.ru/vitrina/index.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="Series" x-list="Rusiya" x-native-name="НТВ-Хит",NTV-Hit
+http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1 tvg-id="NVKSakha.ru" tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="General" x-list="Rusiya" x-native-name="НВК Саха",NVK Sakha
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="O.ru" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="Kids" x-list="Rusiya" x-native-name="О!",O!
@@ -966,8 +966,8 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTALT:http://31.148.48.15/Radost_moya/index.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Business" x-list="Rusiya" x-native-name="РБК-ТВ",RBK-TV
-#EXTALT:http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTALT:https://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTALT:http://online-video.rbc.ru/online2/rbctv.m3u8
 #EXTALT:http://92.50.128.180/utv/1358/index.m3u8
 #EXTALT:https://uiptv.do.am/1ufc/701293058/playlist.m3u8
 http://176.118.197.101/RBK/index.m3u8
@@ -1014,7 +1014,7 @@ http://31.148.5.241/kanal_21/index.m3u8
 #EXTALT:https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTALT:https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTALT:https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTALT:http://31.148.5.241/kanal_2/index.m3u8
+#EXTALT:http://109.207.243.18/2/index.m3u8
 http://176.118.197.101/RossiyaHD/index.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="News" x-list="Rusiya" x-native-name="Россия-24",Russia-24
 #EXTALT:http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
@@ -1158,8 +1158,8 @@ https://sitv.ru/vgtrk/stv.m3u8
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="T24.ru" tvg-logo="https://i.imgur.com/1W6R14o.png" group-title="Undefined" x-list="Rusiya" x-native-name="Т24",T24
 #EXTALT:https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTALT:https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
 #EXTALT:http://178.134.1.158:8081/t24/index.m3u8
+#EXTALT:https://fs.uplink.kz/tehno_24/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/209/index.m3u8
 #EXTINF:-1 tvg-id="Tamyr.ru" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="Kids" x-list="Rusiya" x-native-name="Тамыр",Tamyr
 #EXTALT:https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
@@ -1225,8 +1225,8 @@ http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="TsargradTV.ru" tvg-logo="https://i.imgur.com/34RINpb.png" group-title="Religious" x-list="Rusiya" x-native-name="Царьград ТВ",Tsargrad TV
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
 #EXTINF:-1 tvg-id="TV21.ru" tvg-logo="https://i.imgur.com/nSmSnH6.png" group-title="Movies" x-list="Rusiya" x-native-name="ТВ 21",TV 21
-#EXTALT:http://178.134.1.158:8081/TVXXI/index.m3u8
-https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+#EXTALT:https://fs.uplink.kz/tvxxi/mono.m3u8?token=onlinetv
+http://178.134.1.158:8081/TVXXI/index.m3u8
 #EXTINF:-1 tvg-id="TV21International.ru" tvg-logo="https://ibb.co/BH6CZx3K" group-title="Movies" x-list="Rusiya",TV 21 International
 #EXTALT:http://46.53.200.153:7777/play/TV-21M/index.m3u8
 http://stream.mcquack.net/152/index.m3u8
@@ -1256,15 +1256,15 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 tvg-id="U.ru" tvg-logo="https://i.imgur.com/KDZvt0Q.png" group-title="Entertainment" x-list="Rusiya" x-native-name="Ю",U
 #EXTALT:http://stream.mcquack.net/230/index.m3u8
+#EXTALT:http://178.134.1.158:8081/U/index.m3u8
 #EXTALT:https://fs.uplink.kz/u/mono.m3u8?token=onlinetv
 #EXTALT:https://strm.yandex.ru/kal/utv/utv0.m3u8
-#EXTALT:http://178.134.1.158:8081/U/index.m3u8
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
 #EXTINF:-1 tvg-id="UgraTV.ru" tvg-logo="https://i.imgur.com/561FRwI.png" group-title="Undefined" x-list="Rusiya" x-native-name="Югра-ТВ",Ugra-TV
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru" tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="Undefined" x-list="Rusiya",Univer TV
-#EXTALT:https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTALT:https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnknownRussia.ru" tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="Undefined" x-list="Rusiya" x-native-name="Неизвестная Россия",Unknown Russia
 #EXTALT:http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 https://cdn.ntv.ru/unknown_russia/playlist.m3u8
@@ -1329,12 +1329,17 @@ http://stream.mcquack.net/202/index.m3u8
 http://stream.mcquack.net/311/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports" x-list="Rusiya",viju+ Sport
 #EXTALT:https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTALT:http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTALT:http://46.53.200.153:7777/play/a01l/index.m3u8
 #EXTALT:http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
-#EXTALT:https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-id="VitrinaTV.ru" tvg-logo="https://i.imgur.com/lzQsVfn.png" group-title="Shop" x-list="Rusiya" x-native-name="Витрина ТВ",Vitrina TV
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="Music" x-list="Rusiya",VIVA Russia
+#EXTALT:https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="Vkus.ru" tvg-logo="https://www.cableman.ru/sites/default/files/logo%20%287%29%20%281%29.png" group-title="Travel" x-list="Rusiya" x-native-name="Вкус",Vkus
+http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="VmesteRF.ru" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="Undefined" x-list="Rusiya" x-native-name="Вместе-РФ",Vmeste-RF
 #EXTALT:https://streaming.thestream.cyou/live/7006.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8

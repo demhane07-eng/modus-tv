@@ -1,15 +1,16 @@
-# Kanal hesabatı — 2026-11-18
+# Kanal hesabatı — 2026-11-19
 
-İşləyən: **512** · bu gün işləməyən: **151** · ehtiyat linklər: **354** · bir neçə keyfiyyətdə: **133**
+İşləyən: **513** · bu gün işləməyən: **150** · ehtiyat linklər: **358** · bir neçə keyfiyyətdə: **128**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 13 |
-| Türkiyə | 138 |
-| Rusiya | 361 |
+| Azərbaycan | 12 |
+| Türkiyə | 137 |
+| Rusiya | 364 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
+- Baku.TV (Azərbaycan)
 - CBC Sport (Azərbaycan)
 - Ictimai TV (Azərbaycan)
 - Mədəniyyət TV Ⓢ (Azərbaycan)
@@ -62,7 +63,6 @@
 - LenTV24 (Rusiya)
 - MCM Top (Rusiya)
 - Millet (Rusiya)
-- NTV-Hit (Rusiya)
 - Novorossiya TV (Rusiya)
 - Okko Futbol (Rusiya)
 - Okko Prajm Sport (Rusiya)
@@ -87,7 +87,6 @@
 - Tochka TV (Rusiya)
 - Unikum (Rusiya)
 - Ural 24 (Rusiya)
-- VIVA Russia (Rusiya)
 - Velvet. European Movies (Rusiya)
 - Velvet. Golden Collection (Rusiya)
 - Velvet. Mentovskiye Serialy (Rusiya)
@@ -98,7 +97,6 @@
 - Velvet. World Series (Rusiya)
 - Vera 24 (Rusiya)
 - Vital Drive (Rusiya)
-- Vkus (Rusiya)
 - Volgograd 24 (Rusiya)
 - Vostok 24 (Rusiya)
 - Yalta TV (Rusiya)
@@ -124,10 +122,10 @@
 - BBC Earth Turkiye (Türkiyə)
 - BabyTV Turkiye (Türkiyə)
 - Beyaz TV (Türkiyə)
-- Bir TV (Türkiyə)
 - Bursa TV (Türkiyə)
 - Cay TV (Türkiyə)
 - Cekmekoy TV (Türkiyə)
+- DHA (Türkiyə)
 - Disney Jr. (Türkiyə)
 - ETV Manisa (Türkiyə)
 - FX (Türkiyə)
@@ -141,6 +139,7 @@
 - Line TV (Türkiyə)
 - MTurk TV (Türkiyə)
 - MovieSmart Turk (Türkiyə)
+- NOW (Türkiyə)
 - National Geographic (Türkiyə)
 - National Geographic Wild (Türkiyə)
 - Natural TV (Türkiyə)
@@ -166,6 +165,7 @@
 
 - Baby Time
 - REN TV
+- TV 21
 
 ## 30+ gündür işləməyənlər (yeni link lazımdır)
 

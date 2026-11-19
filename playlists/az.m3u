@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-id="APATv.az" tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="News" x-list="Azərbaycan",APA Tv
 http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-id="AyazTV.az" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="General" x-list="Azərbaycan",Ayaz TV
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTALT:https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General" x-list="Azərbaycan",Az TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTALT:https://az.tvstream.az/hls/stream9/index.m3u8
 #EXTALT:https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTALT:https://str.yodacdn.net/azertv/index.m3u8
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTALT:http://185.32.44.154:80/aztv/index.m3u8
+https://operativmm.az/tvs/az/stream9/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General" x-list="Azərbaycan",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News" x-list="Azərbaycan",Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="General" x-list="Azərbaycan",EL TV
 #EXTALT:http://85.132.53.162:1935/live/eltv/playlist.m3u8
 https://live.eltv.az/live/eltv/playlist.m3u8

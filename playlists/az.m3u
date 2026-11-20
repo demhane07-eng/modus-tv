@@ -10,11 +10,11 @@ https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720
 #EXTALT:https://str.yodacdn.net/azertv/index.m3u8
 #EXTALT:http://185.32.44.154:80/aztv/index.m3u8
 https://operativmm.az/tvs/az/stream9/index.m3u8
-#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General" x-list="Azərbaycan",Azad TV
-https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News" x-list="Azərbaycan",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-logo="https://i.imgur.com/tTlokZ2.png" group-title="General" x-list="Azərbaycan",EL TV
-#EXTALT:http://85.132.53.162:1935/live/eltv/playlist.m3u8
-https://live.eltv.az/live/eltv/playlist.m3u8
+#EXTALT:https://live.eltv.az/live/eltv/playlist.m3u8
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="GunAzTV.us" tvg-logo="https://i.imgur.com/2ZnQazl.png" group-title="General" x-list="Azərbaycan",GunAz TV
 https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="KanalS.az" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png" group-title="General" x-list="Azərbaycan",Kanal S

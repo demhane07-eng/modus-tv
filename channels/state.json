@@ -1,155 +1,155 @@
 {
  "id:15plusmusic.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "15+ Music"
  },
  "id:1hdmusictelevision.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "1HD Music Television"
  },
  "id:24tv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "24 TV"
  },
  "id:2x2.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "2x2"
  },
  "id:360.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "360°"
  },
  "id:360.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "360"
  },
  "id:360news.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "360° News"
  },
  "id:365daystv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "365 days TV"
  },
  "id:3abnrussia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "3ABN Russia"
  },
  "id:4utv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "4U TV"
  },
  "id:555.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "555"
  },
  "id:5kanal.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Пятый канал Ⓢ"
  },
  "id:5minuttishiny.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "5 minut tishiny"
  },
  "id:6tvgorlovka.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "6 TV Gorlovka"
  },
  "id:86.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "86"
  },
  "id:a1.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "A1"
  },
  "id:a2.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "A2"
  },
  "id:a2tv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "A2TV"
  },
  "id:afontovo.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Afontovo"
  },
  "id:ahaber.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "A Haber"
  },
  "id:aisttv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "AIST TV"
  },
  "id:aksutv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Aksu TV"
  },
  "id:alanyapostatv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Alanya Posta TV"
  },
  "id:almahriahtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Almahriah TV"
  },
  "id:alphacinema.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "alpha Cinema"
  },
  "id:alrafidaintv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Al-Rafidain TV"
  },
  "id:altastv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Altas TV"
  },
@@ -160,24 +160,24 @@
  },
  "id:alzahratvturkic.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Al-Zahra TV Turkic"
  },
  "id:amediahit.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Amedia Hit"
  },
  "id:amediapremium.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Amedia Premium"
  },
  "id:anadolunettv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Anadolu Net TV"
  },
@@ -188,18 +188,18 @@
  },
  "id:angeltv.in": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Angel TV Russian"
  },
  "id:ani.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Ani"
  },
  "id:animalplanet.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Animal Planet"
@@ -212,107 +212,113 @@
  },
  "id:arastv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Aras TV"
  },
+ "id:arb24.az": {
+  "fails": 0,
+  "last_ok": "2026-11-21",
+  "list": "Azərbaycan",
+  "name": "ARB 24"
+ },
  "id:aris24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Aris 24"
  },
  "id:arkhyz24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Arkhyz 24"
  },
  "id:arktika24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Arktika 24"
  },
  "id:arsenal.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Arsenal"
  },
  "id:art.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "ART"
  },
  "id:aspor.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "A Spor SD"
  },
  "id:astrahan24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Astrahan 24"
  },
  "id:astrahanrusport.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Astrahan.Ru Sport"
  },
  "id:astrahanrutv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Astrahan.Ru TV"
  },
  "id:astrakhan24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Астрахан 24"
  },
  "id:astv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "AS TV"
  },
  "id:atv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "ATV"
  },
  "id:atvalanya.tr": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Türkiyə",
   "name": "ATV Alanya"
  },
  "id:atvavrupa.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "ATV Avrupa"
  },
  "id:autoplus.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Auto Plus"
  },
  "id:avto24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Avto24"
  },
  "id:ayaztv.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "Ayaz TV"
  },
@@ -324,257 +330,257 @@
  },
  "id:azstartv.ca": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "AzStarTV"
  },
  "id:aztv.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "Az TV"
  },
  "id:babytime.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Baby Time"
  },
  "id:babytv.uk": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "BabyTV Turkiye"
  },
  "id:bakutv.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "Baku.TV"
  },
  "id:balabol.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Balabol"
  },
  "id:bashkortostan24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Bashkortostan 24"
  },
  "id:bbcearth.uk": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "BBC Earth Turkiye"
  },
  "id:bbcfirst.uk": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "BBC First Turkiye"
  },
  "id:beinsports1turk.tr": {
-  "fails": 1,
-  "last_ok": "2026-11-19",
+  "fails": 0,
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "beIN Sports 1 Turk"
  },
  "id:belgorod24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Belgorod 24"
  },
  "id:benguturktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Benguturk TV"
  },
  "id:beyaztv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Beyaz TV"
  },
  "id:bigasia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Big Asia"
  },
  "id:bigplanet.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Big Planet"
  },
  "id:birtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Bir TV"
  },
  "id:black.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": ".black"
  },
  "id:blokbaster.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Blokbaster HD"
  },
  "id:bloomberght.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Bloomberg HT"
  },
  "id:bober.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Bober"
  },
  "id:bokstv.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Boks TV"
  },
  "id:bollywood.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Bollywood HD"
  },
  "id:bollywoodhd.ro": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Bollywood HD Russia"
  },
  "id:bricvesatranctv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Bric ve Satranc TV"
  },
  "id:bridge.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "BRIDGE"
  },
  "id:bridgeclassic.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "BRIDGE Classic"
  },
  "id:bridgedeluxe.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "BRIDGE Deluxe"
  },
  "id:bridgehits.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "BRIDGE Hits"
  },
  "id:bridgerock.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "BRIDGE Rock"
  },
  "id:brtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "BRTV"
  },
  "id:bst.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "BST"
  },
  "id:bursatv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Bursa TV"
  },
  "id:carousel.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Carousel"
  },
  "id:cartoonclassics.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Cartoon Classics"
  },
  "id:cartoonnetwork.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Cartoon Network"
  },
  "id:caytv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Cay TV"
  },
  "id:cbcsport.az": {
-  "fails": 10,
+  "fails": 11,
   "list": "Azərbaycan",
   "name": "CBC Sport"
  },
  "id:cekmekoytv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Cekmekoy TV"
  },
  "id:cgtnrussian.cn": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "CGTN Pусский"
  },
  "id:channel10.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Channel 10"
  },
  "id:channel12.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Channel 12"
  },
  "id:channel16.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Channel-16"
  },
  "id:channel5.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Channel 5"
  },
  "id:channel8.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Channel 8"
  },
@@ -586,790 +592,790 @@
  },
  "id:channel8novosibirsk.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Channel 8 Novosibirsk"
  },
  "id:channelone.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Channel One"
  },
  "id:che.ru": {
-  "fails": 7,
+  "fails": 8,
   "last_ok": "2026-11-14",
   "list": "Rusiya",
   "name": "Che!"
  },
  "id:ciftcitv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Ciftci TV"
  },
  "id:cinema.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Cinema"
  },
  "id:cityedenautogid.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden AutoGid"
  },
  "id:cityedenbirmaplay.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden Birma Play"
  },
  "id:cityedenclassicmusic.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden Classic Music"
  },
  "id:cityedenkinoaction.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoAction"
  },
  "id:cityedenkinoart.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoArt"
  },
  "id:cityedenkinoasia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoAsia"
  },
  "id:cityedenkinodetektiv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoDetektiv"
  },
  "id:cityedenkinodok.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoDok"
  },
  "id:cityedenkinodrama.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoDrama"
  },
  "id:cityedenkinofantastika.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoFantastika"
  },
  "id:cityedenkinoklassika.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoKlassika"
  },
  "id:cityedenkinokomediya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoKomediya"
  },
  "id:cityedenkinomistika.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden KinoMistika"
  },
  "id:cityedenkinosemya.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "City Eden KinoSemya"
  },
  "id:cityedenmedzdrav.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden MedZdrav"
  },
  "id:cityedenplay.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden Play"
  },
  "id:cityedenreceptygurmana.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden Recepty Gurmana"
  },
  "id:cityedensirtakitv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden Sirtaki TV"
  },
  "id:cityedentelenovella.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden TeleNovella"
  },
  "id:cityedentv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "City Eden TV"
  },
  "id:classicmusic.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Classic Music"
  },
  "id:cnbce.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "CNBC-e"
  },
  "id:cnnturk.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "CNN Turk"
  },
  "id:crimea24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Crimea 24"
  },
  "id:currenttimetv.cz": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Current Time TV"
  },
  "id:dagestan.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Dagestan"
  },
  "id:dancehits80.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "DanceHits80"
  },
  "id:davinci.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Da Vinci"
  },
  "id:denizpostasitv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Deniz Postasi TV"
  },
  "id:detskiy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Detskiy"
  },
  "id:detskoekino.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Detskoe kino"
  },
  "id:detvoraplus.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Detvora+"
  },
  "id:dha.tr": {
-  "fails": 2,
+  "fails": 3,
   "last_ok": "2026-11-18",
   "list": "Türkiyə",
   "name": "DHA"
  },
  "id:dikayaokhota.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Dikaya okhota HD"
  },
  "id:dikayarybalka.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Dikaya rybalka HD"
  },
  "id:dikij.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Dikij"
  },
  "id:discoverychannel.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Discovery Channel"
  },
  "id:disneyjr.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Disney Jr."
  },
  "id:diyanettv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Diyanet TV"
  },
  "id:diyartv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Diyar TV"
  },
  "id:doctor.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Doctor"
  },
  "id:docubox.nl": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "DocuBox Russia"
  },
  "id:domashniezhivotnye.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Domashnie Zhivotnye"
  },
  "id:domashniy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Domashniy"
  },
  "id:domkino.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Dom kino"
  },
  "id:domkinopremium.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Dom kino Premium"
  },
  "id:don24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Don 24"
  },
  "id:dorama.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Dorama"
  },
  "id:dosttv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Dost TV"
  },
  "id:dreamturk.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Dream Turk"
  },
  "id:drive.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Drive"
  },
  "id:dumatv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Duma TV"
  },
  "id:dushevnoe.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Dushevnoe HD"
  },
  "id:edessatv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Edessa TV"
  },
  "id:ekoturk.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Ekoturk"
  },
  "id:elsharqtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Elsharq TV"
  },
  "id:eltv.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "EL TV"
  },
  "id:englishclass.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "English Class"
  },
  "id:enisey.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Enisey"
  },
  "id:ertv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "ERTV"
  },
  "id:erzurumwebtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Erzurum Web TV"
  },
  "id:estv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "ES TV"
  },
  "id:etvkayseri.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "ETV Kayseri"
  },
  "id:etvmanisa.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "ETV Manisa"
  },
  "id:eurasia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Eurasia"
  },
  "id:eurod.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Euro D"
  },
  "id:euronewsrussian.fr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Euronews Russian"
  },
  "id:europaplustv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Europa Plus TV"
  },
  "id:eurosport1.fr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Eurosport 1 Turkiye"
  },
  "id:eurosport2.fr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Eurosport 2 Turkiye"
  },
  "id:evrokino.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Evrokino"
  },
  "id:extremesportschannel.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Extreme Sports Channel"
  },
  "id:fan.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "FAN"
  },
  "id:fashionlifestyle.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Fashion&LifeStyle"
  },
  "id:fashiontv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "FashionTV"
  },
  "id:fbtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "FB TV"
  },
  "id:fenikspluskino.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Feniks plus Kino"
  },
  "id:finansturktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Finans Turk TV"
  },
  "id:firstmusicchannel.by": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "First Music Channel"
  },
  "id:firstmusicchannelrussia.by": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "First Music Channel Russia"
  },
  "id:flashhabertv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Flash Haber TV"
  },
  "id:fonmusic.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "FON Music"
  },
  "id:fontv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "FON TV"
  },
  "id:foodnetwork.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Food Network"
  },
  "id:fortunatv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Fortuna TV"
  },
  "id:fox.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Fox"
  },
  "id:foxlife.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Fox Life"
  },
  "id:friday.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Friday!"
  },
  "id:fridayinternational.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Friday! International Kazakhstan"
  },
  "id:fx.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "FX"
  },
  "id:gagsnetwork.us": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Gagsnetwork"
  },
  "id:glazamiturista.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Glazami Turista"
  },
  "id:gorodskoytelekanal.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Gorodskoy telekanal"
  },
  "id:govoritmoskva.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Govorit Moskva"
  },
  "id:groznyj.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Groznyj"
  },
  "id:guberniasamara.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Gubernia Samara"
  },
  "id:gulligirl.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Gulli Girl"
  },
  "id:gunaztv.us": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "GunAz TV"
  },
  "id:guneydogutv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Guneydogu TV"
  },
  "id:gzt.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "GZT"
  },
  "id:haber61tv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Haber61 TV"
  },
  "id:haberglobal.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Haber Global"
  },
  "id:haberturktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Haberturk TV"
  },
  "id:halktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Halk TV SD"
  },
  "id:hit.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Hit HD"
  },
  "id:hollywood.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Hollywood"
  },
  "id:home4k.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Home 4K"
  },
  "id:hopechannelrussia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Hope Channel Russia"
  },
  "id:horosheekino.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Horoshee Kino"
  },
  "id:htsportv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "HTSpor TV"
  },
  "id:hunattv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Hunat TV"
  },
  "id:iceltv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Icel TV"
  },
  "id:ictimaitv.az": {
-  "fails": 10,
+  "fails": 11,
   "list": "Azərbaycan",
   "name": "Ictimai TV"
  },
  "id:ilketv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Ilke TV"
  },
  "id:illusionplus.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Illusion+"
  },
  "id:india.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "India"
  },
  "id:indiyskoyekino.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Indiyskoye Kino"
  },
  "id:ingushetia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Ingushetia"
  },
  "id:investigationdiscovery.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Investigation Discovery"
  },
  "id:istoki.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Istoki"
  },
  "id:istoriya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Istoriya"
  },
  "id:izvestia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Izvestia"
  },
  "id:kanal12.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal 12"
  },
  "id:kanal15.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal 15"
  },
  "id:kanal23.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal 23"
  },
  "id:kanal26.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal 26"
  },
  "id:kanal3.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal 3"
  },
  "id:kanal32.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Kanal 32"
  },
  "id:kanal33.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Kanal 33"
  },
  "id:kanal34.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Kanal 34"
  },
@@ -1380,671 +1386,671 @@
  },
  "id:kanal58.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal 58"
  },
  "id:kanal7.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal 7"
  },
  "id:kanal7avrupa.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal 7 Avrupa"
  },
  "id:kanald.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal D"
  },
  "id:kanalfirat.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal Firat"
  },
  "id:kanalhayat.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Kanal Hayat"
  },
  "id:kanals.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "Kanal S"
  },
  "id:kanalv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kanal V"
  },
  "id:kapaztv.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "Kapaz TV"
  },
  "id:kapitanfantastika.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kapitan Fantastika"
  },
  "id:karusel.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Карусель Ⓢ"
  },
  "id:katun24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Катунь 24 Ⓞ"
  },
  "id:kavkaz24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Kavkaz 24"
  },
  "id:kaytv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kay TV"
  },
  "id:kentturk.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kent Turk"
  },
  "id:khl.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "KHL"
  },
  "id:kineko.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Kineko"
  },
  "id:kino1.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kino 1"
  },
  "id:kino24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Kino 24"
  },
  "id:kinohit.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "KinoHit"
  },
  "id:kinokomedija.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kinokomedija"
  },
  "id:kinomix.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kinomix"
  },
  "id:kinopokaz.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kinopokaz"
  },
  "id:kinopremyera.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kinopremyera"
  },
  "id:kinosat.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "KinoSat"
  },
  "id:kinosemja.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kinosemja"
  },
  "id:kinoseriya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kinoseriya"
  },
  "id:kinosvidanie.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kinosvidanie"
  },
  "id:kinotv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kino TV"
  },
  "id:kinouzhas.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kinouzhas"
  },
  "id:knmusictv.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "KN Music TV"
  },
  "id:kocaelitv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kocaeli TV"
  },
  "id:komedia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Komedia"
  },
  "id:komediynoe.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Komediynoe HD"
  },
  "id:kongresstv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kongress TV"
  },
  "id:konyaolaytv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Konya Olay TV"
  },
  "id:kralpoptv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Kral Pop TV"
  },
  "id:kriktv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Krik-TV"
  },
  "id:krt.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "KRT"
  },
  "id:ktoestkto.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Kto est kto"
  },
  "id:kuban24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kuban 24"
  },
  "id:kuhnya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kuhnya"
  },
  "id:kulinartv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kulinar TV"
  },
  "id:kurajtv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Kuraj-TV"
  },
  "id:kvntv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "KVN TV"
  },
  "id:lalegultv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Lalegul TV"
  },
  "id:lapkilive.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Lapki Live"
  },
  "id:ldprtv.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "LDPR TV"
  },
  "id:legendarnyy24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Legendarnyy 24"
  },
  "id:lentv24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "LenTV24"
  },
  "id:leomax24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Leomax 24"
  },
  "id:lifetv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Life TV"
  },
  "id:linetv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Line TV"
  },
  "id:livemusicchannel.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Live Music Channel HD"
  },
  "id:lugansk24.ua": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Lugansk 24"
  },
  "id:luystv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Luys TV"
  },
  "id:magnat.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Magnat"
  },
  "id:maidan.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Maidan"
  },
  "id:mama.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Mama"
  },
  "id:match.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Матч ТВ Ⓢ"
  },
  "id:matcharena.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Match! Arena"
  },
  "id:matchboets.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Match! Boets"
  },
  "id:matchigra.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Match! Igra"
  },
  "id:matchplaneta.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Match! Planeta"
  },
  "id:matchpremier.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Match! Premier"
  },
  "id:matchstrana.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Match! Strana"
  },
  "id:matchultra.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Match! Ultra"
  },
  "id:mavikaradeniztv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "MaviKaradeniz TV"
  },
  "id:mcmtop.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "MCM Top"
  },
  "id:medeniyyettv.az": {
-  "fails": 10,
+  "fails": 11,
   "list": "Azərbaycan",
   "name": "Mədəniyyət TV Ⓢ"
  },
  "id:medmuzik.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Med Muzik"
  },
  "id:mekameleentv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Mekameleen TV"
  },
  "id:meltemtv.tr": {
-  "fails": 0,
+  "fails": 1,
   "last_ok": "2026-11-20",
   "list": "Türkiyə",
   "name": "Meltem TV"
  },
  "id:mercantv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Mercan TV"
  },
  "id:mezzolive.fr": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Mezzo Live"
  },
  "id:millet.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Millet"
  },
  "id:minikacocuk.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Minika Cocuk"
  },
  "id:minikago.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Minika Go"
  },
  "id:ministerstvoidey.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Ministerstvo idey"
  },
  "id:mir.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Mir"
  },
  "id:mir24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Mir 24"
  },
  "id:mirbelogorya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Mir Belogorya"
  },
  "id:mirseriala.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Mir Seriala"
  },
  "id:mmatvcom.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "MMA-TV.com"
  },
  "id:mosfilmgoldcollection.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Mosfilm Gold Collection"
  },
  "id:moskva24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Moskva 24"
  },
  "id:moskvadoveriye.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Moskva. Doveriye"
  },
  "id:moviesmartturk.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "MovieSmart Turk"
  },
  "id:moyaplaneta.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Moya Planeta"
  },
  "id:moyastikhiya.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Moya stikhiya HD"
  },
  "id:moymir.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Moy mir"
  },
  "id:mturktv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "MTurk TV"
  },
  "id:mtvvolgograd.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "MTV Volgograd"
  },
  "id:mult.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Mult"
  },
  "id:multimuzyka.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Mult i muzyka"
  },
  "id:muzhskoekino.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Muzhskoe kino"
  },
  "id:muzhskoy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Muzhskoy HD"
  },
  "id:muzsoyuz.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Muz Soyuz"
  },
  "id:muztv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Muz-TV"
  },
  "id:muzyka1.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Muzyka 1"
  },
  "id:muzykakino.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Muzyka Kino"
  },
  "id:muzykalive.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Muzyka Live"
  },
  "id:muzykapervogo.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Muzyka Pervogo"
  },
  "id:nano.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nano"
  },
  "id:nashatema.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nasha Tema"
  },
  "id:nashe.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Nashe HD"
  },
  "id:nashemuzhskoe.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Nashe muzhskoe HD"
  },
  "id:nashenovoekino.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nashe Novoe Kino"
  },
  "id:nashkinopokaz.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nash Kinopokaz HD"
  },
  "id:nationalgeographic.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "National Geographic"
  },
  "id:nationalgeographic.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "National Geographic"
  },
  "id:nationalgeographicwild.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "National Geographic Wild"
  },
  "id:nationalgeographicwild.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "National Geographic Wild"
  },
  "id:naturaltv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Natural TV"
  },
  "id:nauka.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nauka"
  },
@@ -2054,1826 +2060,1826 @@
   "name": "Naxcivan TV"
  },
  "id:nebesatv7.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Небеса ТВ7 Ⓢ"
  },
  "id:nevskiy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nevskiy"
  },
  "id:nickelodeon.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Nickelodeon"
  },
  "id:nikatv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nika TV"
  },
  "id:nizhniynovgorod24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nizhniy Novgorod 24"
  },
  "id:nostalgia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Nostalgia"
  },
  "id:novgorobltv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NovgorOblTV"
  },
  "id:novorossiyatv.ru": {
-  "fails": 0,
+  "fails": 1,
   "last_ok": "2026-11-20",
   "list": "Rusiya",
   "name": "Novorossiya TV"
  },
  "id:now.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "NOW"
  },
  "id:nst.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NST"
  },
  "id:ntk21.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTK 21"
  },
  "id:ntm.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTM"
  },
  "id:nts.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTS"
  },
  "id:ntv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTV"
  },
  "id:ntv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "NTV"
  },
  "id:ntvhit.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTV-Hit"
  },
  "id:ntvlaw.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTV Law"
  },
  "id:ntvseries.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "NTV Series"
  },
  "id:ntvsledstviyeveli.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTV Sledstviye veli"
  },
  "id:ntvstyle.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTV Style"
  },
  "id:ntvvitrina.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NTV Vitrina"
  },
  "id:number1ask.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Number 1 Ask"
  },
  "id:number1damar.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Number 1 Damar"
  },
  "id:number1dance.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Number 1 Dance"
  },
  "id:number1tv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Number 1 TV"
  },
  "id:nvksakha.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "NVK Sakha"
  },
  "id:o.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "O!"
  },
  "id:o2tv.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "o2tv"
  },
  "id:ohotnikirybolov.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Ohotnik i rybolov"
  },
  "id:okhotairybalka.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Okhota i rybalka"
  },
  "id:okkofutbol.ru": {
-  "fails": 3,
+  "fails": 4,
   "last_ok": "2026-11-17",
   "list": "Rusiya",
   "name": "Okko Futbol"
  },
  "id:okkoprajmsport.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Okko Prajm Sport"
  },
  "id:olayturktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "OlayTurk TV"
  },
  "id:on4tv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "On4 TV"
  },
  "id:oplot2.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Oplot 2"
  },
  "id:oplottv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Oplot TV"
  },
  "id:osetiyairyston.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Osetiya-Iryston"
  },
  "id:osn.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "OSN"
  },
  "id:ostrosyuzhetnoye.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Ostrosyuzhetnoye HD"
  },
  "id:otkritiymirzdorove.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Otkritiy mir. Zdorove"
  },
  "id:otr.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "OTR"
  },
  "id:otvprim.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "OTV-Prim"
  },
  "id:patriot.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Patriot"
  },
  "id:peretzinternational.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Че"
  },
  "id:persianaturkiye.fr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Persiana Turkiye"
  },
  "id:perviykrymskiy.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Perviy Krymskiy"
  },
  "id:perviyotdel.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Perviy otdel"
  },
  "id:pervyyrespublikanskiy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Pervyy Respublikanskiy"
  },
  "id:pes.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Pes"
  },
  "id:pobeda.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Pobeda"
  },
  "id:poehali.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Poehali!"
  },
  "id:powerdance.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Power Dance"
  },
  "id:powerlove.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Power Love"
  },
  "id:powerturkakustik.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "PowerTurk Akustik"
  },
  "id:powerturkslow.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "PowerTurk Slow"
  },
  "id:powerturktaptaze.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "PowerTurk Taptaze"
  },
  "id:powerturktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "PowerTurk TV"
  },
  "id:powertv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Power TV"
  },
  "id:premialnoe.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Premialnoe HD"
  },
  "id:priklyucheniya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Priklyucheniya"
  },
  "id:prima.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Prima"
  },
  "id:probusiness.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Pro Business"
  },
  "id:prodvizhenie.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Prodvizhenie"
  },
  "id:prolyubov.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Pro Lyubov"
  },
  "id:prosveshchenie.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Prosveshchenie"
  },
  "id:pyatnitsa.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Пятница! Ⓢ"
  },
  "id:qaftv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Qaf TV"
  },
  "id:radio1.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Radio 1"
  },
  "id:radiomir.by": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Radio Mir"
  },
  "id:radiorossii.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Radio Rossii"
  },
  "id:radioshanson.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Radio Shanson"
  },
  "id:radostmoya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Radost Moya"
  },
  "id:rbktv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "RBK-TV"
  },
  "id:red.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": ".red"
  },
  "id:redline.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Red Line"
  },
  "id:rentv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "REN TV"
  },
  "id:retro.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Retro"
  },
  "id:rodnoekino.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Rodnoe Kino"
  },
  "id:rossiya1vainah.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Rossiya 1 Vainah"
  },
  "id:rtbalkan.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "RT Balkan"
  },
  "id:rtd.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "RT Д Русский Ⓖ"
  },
  "id:rtdocumentary.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "RT Documentary Russian"
  },
  "id:rtgint.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "RTG int."
  },
  "id:rtgtv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "RTG TV"
  },
  "id:rtrplaneta.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "РТР-Планета Ⓢ"
  },
  "id:rtvi.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "RTVi"
  },
  "id:rus.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Rus"
  },
  "id:russia1.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Russia-1"
  },
  "id:russia24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Russia-24"
  },
  "id:russiak.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Russia-K"
  },
  "id:russianextreme.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Russian Extreme"
  },
  "id:russianextremeultra.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Russian Extreme Ultra"
  },
  "id:russianmusicbox.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Russian MusicBox"
  },
  "id:russkiybestseller.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Russkiy Bestseller"
  },
  "id:russkiydetektiv.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Russkiy Detektiv"
  },
  "id:russkiyillusion.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Russkiy Illusion"
  },
  "id:russkiyroman.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Russkiy roman"
  },
  "id:rutv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "RU.TV"
  },
  "id:rutvkids.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "RU.TV Kids"
  },
  "id:rybalkaiokhota.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Rybalka i okhota"
  },
  "id:rybolov.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Rybolov"
  },
  "id:ryzhiy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Ryzhiy"
  },
  "id:rzdtv.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "RZD TV"
  },
  "id:s1.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "S1"
  },
  "id:salyam.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Salyam"
  },
  "id:samara24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Samara 24"
  },
  "id:samaragis.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Samara-GIS"
  },
  "id:sanktpeterburg.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Sankt-Peterburg"
  },
  "id:saphire.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Saphire"
  },
  "id:sarafan.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Sarafan"
  },
  "id:saratov24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Саратов 24"
  },
  "id:sat7turk.cy": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Sat 7 Turk"
  },
  "id:scifi.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": ".sci-fi"
  },
  "id:semerkandtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Semerkand TV"
  },
  "id:sercemtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Sercem TV"
  },
  "id:seven.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Seven"
  },
  "id:sever.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Sever"
  },
  "id:shansontv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Shanson TV SD"
  },
  "id:shchyolkovskoetv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Shchyolkovskoe TV"
  },
  "id:shef.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Shef"
  },
  "id:shokiruyushchee.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Shokiruyushchee HD"
  },
  "id:shoppinglive.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Shopping Live"
  },
  "id:showturk.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Show Turk"
  },
  "id:sibir24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Sibir 24"
  },
  "id:simferopol24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Simferopol 24"
  },
  "id:skorayapomoshch.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Skoraya pomoshch"
  },
  "id:smotrim100detskoe.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% Detskoe"
  },
  "id:smotrim100fakty.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% Fakty"
  },
  "id:smotrim100gorkogo.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% Gorkogo"
  },
  "id:smotrim100k1.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% k 1"
  },
  "id:smotrim100klassika.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% Klassika"
  },
  "id:smotrim100lyubov.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% Lyubov"
  },
  "id:smotrim100muzhskoe.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% Muzhskoe"
  },
  "id:smotrim100prazdnik.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% Prazdnik"
  },
  "id:smotrim100talkshow.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim 100% Talk-show"
  },
  "id:smotrimchestnyydetektiv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Smotrim Chestnyy Detektiv"
  },
  "id:sochi24.ru": {
-  "fails": 1,
-  "last_ok": "2026-11-19",
+  "fails": 0,
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Sochi24"
  },
  "id:sochilive.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Sochi Live"
  },
  "id:solnce.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Solnce"
  },
  "id:solovyovlive.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Solovyov Live"
  },
  "id:songtvrussia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "SONGTV Russia"
  },
  "id:soyuz.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Soyuz"
  },
  "id:soyuzny.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Soyuzny"
  },
  "id:sozcutv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Sozcu TV"
  },
  "id:spacetoonturkey.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Spacetoon Turkey"
  },
  "id:spas.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Spas"
  },
  "id:sportivnyy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Sportivnyy"
  },
  "id:ssport2.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "S Sport 2"
  },
  "id:starcinema.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Star Cinema"
  },
  "id:starfamily.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Star Family"
  },
  "id:startair.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "START Air"
  },
  "id:starttriumf.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Start Triumf"
  },
  "id:startv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Star TV"
  },
  "id:startworld.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "START World"
  },
  "id:stranafm.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Strana FM"
  },
  "id:sts.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "STS"
  },
  "id:stskids.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "STS kids"
  },
  "id:stslove.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "STS Love"
  },
  "id:subbota.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Subbota!"
  },
  "id:sunrtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Sun RTV"
  },
  "id:supergeroi.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "SuperGeroi"
  },
  "id:surgut24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Surgut 24"
  },
  "id:svoyotv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Svoyo TV"
  },
  "id:t24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "T24"
  },
  "id:tamyr.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tamyr"
  },
  "id:tavriya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tavriya"
  },
  "id:tbmmtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TBMM TV"
  },
  "id:teatr.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Teatr"
  },
  "id:tele1.tr": {
-  "fails": 1,
-  "last_ok": "2026-11-19",
+  "fails": 0,
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Tele 1"
  },
  "id:telecafe.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Telecafe"
  },
  "id:teledom.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TeleDom"
  },
  "id:telekanalkrasnodar.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Telekanal Krasnodar"
  },
  "id:telekanalspas.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Спас Ⓢ"
  },
  "id:telekanalzvezda.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Звезда"
  },
  "id:teleputeshestviya.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Teleputeshestviya"
  },
  "id:telplus.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Telplus"
  },
  "id:tempotv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Tempo TV"
  },
  "id:terra.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "TERRA"
  },
  "id:tgrtbelgesel.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TGRT Belgesel"
  },
  "id:tgrthaber.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TGRT Haber"
  },
  "id:thaqalayntv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Thaqalayn TV"
  },
  "id:theexplorers.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "The Explorers"
  },
  "id:tiji.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TiJi"
  },
  "id:tivi6.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Tivi 6"
  },
  "id:tjktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TJK TV"
  },
  "id:tjktv2.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "TJK TV 2"
  },
  "id:tkr.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TKR"
  },
  "id:tlc.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "TLC"
  },
  "id:tnt.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TNT"
  },
  "id:tnt4.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "TNT4"
  },
  "id:tnvplanet.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TNV-Planet"
  },
  "id:tnvtatarstan.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TNV-Tatarstan"
  },
  "id:tochkaotryva.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tochka otryva"
  },
  "id:tochkatv.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Tochka TV"
  },
  "id:tolk.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tolk"
  },
  "id:tolyatti24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Тольятти 24"
  },
  "id:tontv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Ton TV"
  },
  "id:tonus.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tonus"
  },
  "id:tooku.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tooku"
  },
  "id:tracesportstars.fr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Trace Sport Stars Russia"
  },
  "id:travelchannel.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Travel Channel"
  },
  "id:travelplusadventure.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Travel+Adventure"
  },
  "id:trt1.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT 1"
  },
  "id:trt2.tr": {
-  "fails": 1,
-  "last_ok": "2026-11-19",
+  "fails": 0,
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT 2"
  },
  "id:trt3.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT 3"
  },
  "id:trtarabi.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Arabi"
  },
  "id:trtavaz.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Avaz"
  },
  "id:trtbelgesel.tr": {
-  "fails": 5,
+  "fails": 6,
   "last_ok": "2026-11-15",
   "list": "Türkiyə",
   "name": "TRT Belgesel"
  },
  "id:trtcocuk.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Cocuk"
  },
  "id:trtdiyanetcocuk.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Diyanet Cocuk"
  },
  "id:trteba.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT EBA"
  },
  "id:trtebailkokul.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT EBA Ilkokul"
  },
  "id:trtebalise.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT EBA Lise"
  },
  "id:trtgenc.tr": {
-  "fails": 5,
+  "fails": 6,
   "last_ok": "2026-11-15",
   "list": "Türkiyə",
   "name": "TRT Genc"
  },
  "id:trthaber.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Haber"
  },
  "id:trtkurdi.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Kurdi"
  },
  "id:trtmuzik.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Muzik"
  },
  "id:trtspor.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "TRT Spor"
  },
  "id:trtsporyildiz.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Spor Yildiz"
  },
  "id:trtturk.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT Turk"
  },
  "id:trtworld.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT World"
  },
  "id:tsargradtv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tsargrad TV"
  },
  "id:turkhabertv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "TurkHaber TV"
  },
  "id:turksattanitim.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Turksat Tanitim"
  },
  "id:tv.minidey.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Министерство Идей"
  },
  "id:tv1.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "TV 1"
  },
  "id:tv21.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TV 21"
  },
  "id:tv21international.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TV 21 International"
  },
  "id:tv264.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TV 264"
  },
  "id:tv3.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TV-3"
  },
  "id:tv4.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TV 4"
  },
  "id:tv41.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TV 41"
  },
  "id:tv42.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "TV 42"
  },
  "id:tv52.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "TV 52"
  },
  "id:tv8.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TV8"
  },
  "id:tvbricsrussian.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TV BRICS Russian"
  },
  "id:tvcentr.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TV Centr"
  },
  "id:tvcentrinternational.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TV Centr International"
  },
  "id:tvden.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TV Den"
  },
  "id:tvk.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "TVK"
  },
  "id:tvnet.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "TVNET"
  },
  "id:tvoetv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tvoe TV"
  },
  "id:tvoyetvyumor.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Tvoye TV Yumor"
  },
  "id:tvpro.ru": {
-  "fails": 0,
+  "fails": 1,
   "last_ok": "2026-11-20",
   "list": "Rusiya",
   "name": "TV PRO"
  },
  "id:tvrain.nl": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "TV Rain"
  },
  "id:u.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "U"
  },
  "id:ugratv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Ugra-TV"
  },
  "id:ulketv.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Ulke TV"
  },
  "id:unikum.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Unikum"
  },
  "id:univertv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Univer TV"
  },
  "id:unknownrussia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Unknown Russia"
  },
  "id:ural24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Ural 24"
  },
  "id:urfanatiktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Urfa Natik TV"
  },
  "id:usadba.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Usadba"
  },
  "id:van65tv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Van 65 TV"
  },
  "id:vavtv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Vav TV"
  },
  "id:velveteuropeanmovies.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Velvet. European Movies"
  },
  "id:velvetgoldencollection.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Velvet. Golden Collection"
  },
  "id:velvetmentovskiyeserialy.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Velvet. Mentovskiye Serialy"
  },
  "id:velvetscary.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Velvet. Scary"
  },
  "id:velvetserieshits.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Velvet. Series Hits"
  },
  "id:velvetsovetskoekino.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Velvet. Sovetskoe Kino"
  },
  "id:velvetsvaty.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Velvet. Svaty"
  },
  "id:velvetworldseries.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Velvet. World Series"
  },
  "id:vera24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Vera 24"
  },
  "id:vestifm.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Vesti FM"
  },
  "id:vetta24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Vetta 24"
  },
  "id:vgostyakhuskazki.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "V gostyakh u skazki"
  },
  "id:viasathistory.tr": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "Viasat History"
  },
  "id:vijuexplore.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju Explore"
  },
  "id:vijuhistory.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju History"
  },
  "id:vijunature.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju Nature"
  },
  "id:vijupluscomedy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju+ Comedy HD"
  },
  "id:vijuplusmegahit.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju+ Megahit HD"
  },
  "id:vijuplusplanet.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "viju+ Planet HD"
  },
  "id:vijupluspremiere.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju+ Premiere HD"
  },
  "id:vijuplusserial.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju+ Serial HD"
  },
  "id:vijuplussport.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju+ Sport"
  },
  "id:vijutv1000.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju TV1000"
  },
  "id:vijutv1000action.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju TV1000 action"
  },
  "id:vijutv1000novella.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju TV1000 novella HD"
  },
  "id:vijutv1000romantica.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju TV1000 romantica HD"
  },
  "id:vijutv1000russkoe.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "viju TV1000 russkoe"
  },
  "id:vilayettv.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "Vilayet TV"
  },
  "id:vitaldrive.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Vital Drive"
  },
  "id:vitrinatv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Vitrina TV"
  },
  "id:vivarussia.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "VIVA Russia"
  },
  "id:vkus.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Vkus"
  },
  "id:vmesterf.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Vmeste-RF"
  },
  "id:vmirezhivotnykh.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "V mire zhivotnykh"
  },
  "id:volga.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Volga"
  },
  "id:volgograd24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Volgograd 24"
  },
  "id:volleyball.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Volleyball"
  },
  "id:vostok24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Vostok 24"
  },
  "id:vremya.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Vremya"
  },
  "id:xezertv.az": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Azərbaycan",
   "name": "Xezer TV"
  },
  "id:xezerxeber.az": {
-  "fails": 10,
+  "fails": 11,
   "list": "Azərbaycan",
   "name": "Xəzər Xəbər"
  },
  "id:yakutiya24.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Якутия 24"
  },
  "id:yaltatv.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Yalta TV"
  },
  "id:yapervyy.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "YaPervyy"
  },
  "id:yoltv.de": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "YOL TV"
  },
  "id:yuvelirochka.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Yuvelirochka"
  },
  "id:zagorodnayazhizn.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Zagorodnaya Zhizn"
  },
  "id:zapad24.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Zapad 24"
  },
  "id:zaroktv.tr": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "Zarok TV"
  },
  "id:zatv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Za! TV"
  },
  "id:zdorovoetv.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Zdorovoe TV"
  },
  "id:zhivayaplaneta.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Zhivaya Planeta"
  },
  "id:zhivayapriroda.ru": {
-  "fails": 1,
+  "fails": 2,
   "last_ok": "2026-11-19",
   "list": "Rusiya",
   "name": "Zhivaya priroda"
  },
  "id:zhivi.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Zhivi!"
  },
  "id:zoopark.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Zoopark"
  },
  "id:zootv.ru": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Zoo TV"
  },
  "id:zvezda.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Zvezda"
  },
  "id:zvezdaplus.ru": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Rusiya",
   "name": "Zvezda Plus HD"
  },
@@ -3884,12 +3890,12 @@
   "name": "Смотрим: Честный Детектив"
  },
  "n:smotrimmelodramy": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Смотрим: Мелодрамы"
  },
  "n:smotrimtayny": {
-  "fails": 10,
+  "fails": 11,
   "list": "Rusiya",
   "name": "Смотрим: Тайны"
  },
@@ -3907,7 +3913,7 @@
  },
  "n:trtebaortaokul": {
   "fails": 0,
-  "last_ok": "2026-11-20",
+  "last_ok": "2026-11-21",
   "list": "Türkiyə",
   "name": "TRT EBA Ortaokul"
  },
@@ -3918,7 +3924,7 @@
   "name": "TRT Müzik"
  },
  "n:trtspor2": {
-  "fails": 10,
+  "fails": 11,
   "list": "Türkiyə",
   "name": "TRT Spor 2 Ⓖ"
  },

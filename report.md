@@ -1,12 +1,12 @@
-# Kanal hesabatı — 2026-11-20
+# Kanal hesabatı — 2026-11-21
 
-İşləyən: **482** · bu gün işləməyən: **183** · ehtiyat linklər: **350** · bir neçə keyfiyyətdə: **133**
+İşləyən: **483** · bu gün işləməyən: **182** · ehtiyat linklər: **356** · bir neçə keyfiyyətdə: **132**
 
 | Siyahı | İşləyən |
 |---|---|
 | Azərbaycan | 12 |
-| Türkiyə | 134 |
-| Rusiya | 336 |
+| Türkiyə | 136 |
+| Rusiya | 335 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
@@ -77,6 +77,7 @@
 - Nashe HD (Rusiya)
 - Nashe muzhskoe HD (Rusiya)
 - Nickelodeon (Rusiya)
+- Novorossiya TV (Rusiya)
 - Okko Futbol (Rusiya)
 - Okko Prajm Sport (Rusiya)
 - Ostrosyuzhetnoye HD (Rusiya)
@@ -101,11 +102,11 @@
 - Shokiruyushchee HD (Rusiya)
 - Sibir 24 (Rusiya)
 - Simferopol 24 (Rusiya)
-- Sochi24 (Rusiya)
 - Start Triumf (Rusiya)
 - TERRA (Rusiya)
 - TLC (Rusiya)
 - TNT4 (Rusiya)
+- TV PRO (Rusiya)
 - TVK (Rusiya)
 - Teatr (Rusiya)
 - Teleputeshestviya (Rusiya)
@@ -169,6 +170,7 @@
 - Kanal Hayat (Türkiyə)
 - Line TV (Türkiyə)
 - MTurk TV (Türkiyə)
+- Meltem TV (Türkiyə)
 - MovieSmart Turk (Türkiyə)
 - National Geographic (Türkiyə)
 - National Geographic Wild (Türkiyə)
@@ -178,7 +180,6 @@
 - S Sport 2 (Türkiyə)
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
-- TRT 2 (Türkiyə)
 - TRT Belgesel (Türkiyə)
 - TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
@@ -187,16 +188,15 @@
 - TV 42 (Türkiyə)
 - TV 52 (Türkiyə)
 - TVNET (Türkiyə)
-- Tele 1 (Türkiyə)
 - TurkHaber TV (Türkiyə)
 - Turksat Tanitim (Türkiyə)
 - Ulke TV (Türkiyə)
 - Viasat History (Türkiyə)
-- beIN Sports 1 Turk (Türkiyə)
 
 ## Səsi Android-də çıxmayanlar (səsli link tapılmadı)
 
 - .black
+- .red
 - Baby Time
 - Domashniy
 - Europa Plus TV

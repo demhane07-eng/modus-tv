@@ -1,21 +1,20 @@
-# Kanal hesabatı — 2026-11-21
+# Kanal hesabatı — 2026-11-22
 
-İşləyən: **483** · bu gün işləməyən: **182** · ehtiyat linklər: **356** · bir neçə keyfiyyətdə: **132**
+İşləyən: **476** · bu gün işləməyən: **182** · ehtiyat linklər: **356** · bir neçə keyfiyyətdə: **132**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 12 |
-| Türkiyə | 136 |
-| Rusiya | 335 |
+| Azərbaycan | 5 |
+| Türkiyə | 135 |
+| Rusiya | 336 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
 - CBC Sport (Azərbaycan)
-- Ictimai TV (Azərbaycan)
 - Mədəniyyət TV Ⓢ (Azərbaycan)
 - Xəzər Xəbər (Azərbaycan)
+- İctimai TV Ⓢ (Azərbaycan)
 - 15+ Music (Rusiya)
-- 6 TV Gorlovka (Rusiya)
 - A1 (Rusiya)
 - A2 (Rusiya)
 - Afontovo (Rusiya)
@@ -31,6 +30,7 @@
 - Boks TV (Rusiya)
 - Che! (Rusiya)
 - City Eden KinoSemya (Rusiya)
+- City Eden TeleNovella (Rusiya)
 - Classic Music (Rusiya)
 - Crimea 24 (Rusiya)
 - Detskoe kino (Rusiya)
@@ -74,10 +74,10 @@
 - Mult i muzyka (Rusiya)
 - Muzyka Live (Rusiya)
 - NTV Series (Rusiya)
+- NTV Sledstviye veli (Rusiya)
 - Nashe HD (Rusiya)
 - Nashe muzhskoe HD (Rusiya)
 - Nickelodeon (Rusiya)
-- Novorossiya TV (Rusiya)
 - Okko Futbol (Rusiya)
 - Okko Prajm Sport (Rusiya)
 - Ostrosyuzhetnoye HD (Rusiya)
@@ -106,7 +106,6 @@
 - TERRA (Rusiya)
 - TLC (Rusiya)
 - TNT4 (Rusiya)
-- TV PRO (Rusiya)
 - TVK (Rusiya)
 - Teatr (Rusiya)
 - Teleputeshestviya (Rusiya)
@@ -168,6 +167,7 @@
 - Kanal 33 (Türkiyə)
 - Kanal 34 (Türkiyə)
 - Kanal Hayat (Türkiyə)
+- Kocaeli TV (Türkiyə)
 - Line TV (Türkiyə)
 - MTurk TV (Türkiyə)
 - Meltem TV (Türkiyə)
@@ -181,13 +181,13 @@
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
 - TRT Belgesel (Türkiyə)
-- TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
 - TV 1 (Türkiyə)
 - TV 42 (Türkiyə)
 - TV 52 (Türkiyə)
 - TVNET (Türkiyə)
+- Tele 1 (Türkiyə)
 - TurkHaber TV (Türkiyə)
 - Turksat Tanitim (Türkiyə)
 - Ulke TV (Türkiyə)

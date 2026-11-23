@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apk": "M-ModusPult.apk",
-  "notes": "Telefonu yana çevirəndə TV-dəki görüntü pozulmur."
+  "notes": "Yazı xanası TV-dəki açıq xanaya da yazır (linkləri yapışdırmaq üçün)."
 }

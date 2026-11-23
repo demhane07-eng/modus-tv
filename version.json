@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "3.18",
+  "versionCode": 27,
+  "versionName": "3.19",
   "apk": "M-ModusTV.apk",
-  "notes": "İndi baxdığınız kanal siyahılarda “İNDİ” nişanı ilə görünür; pultla sütunlar arasında keçəndə harada olduğunuz aydın görünür."
+  "notes": "Siyahıya kod qoymaq; Mediateka (VPortal: filmlər və seriallar); aktiv sütun çərçivə ilə seçilir; telefonda tam ekranda kilid və ekran işığı."
 }

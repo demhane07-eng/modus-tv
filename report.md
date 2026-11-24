@@ -1,16 +1,16 @@
-# Kanal hesabatı — 2026-11-23
+# Kanal hesabatı — 2026-11-24
 
-İşləyən: **456** · bu gün işləməyən: **204** · ehtiyat linklər: **332** · bir neçə keyfiyyətdə: **129**
+İşləyən: **469** · bu gün işləməyən: **202** · ehtiyat linklər: **326** · bir neçə keyfiyyətdə: **131**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 5 |
-| Türkiyə | 135 |
-| Rusiya | 316 |
+| Azərbaycan | 6 |
+| Türkiyə | 136 |
+| Rusiya | 327 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
-- Baku TV (Azərbaycan)
+- Ayaz TV (Azərbaycan)
 - CBC Sport (Azərbaycan)
 - Mədəniyyət TV Ⓢ (Azərbaycan)
 - Xəzər Xəbər (Azərbaycan)
@@ -35,11 +35,8 @@
 - Big Planet (Rusiya)
 - Blokbaster HD (Rusiya)
 - Boks TV (Rusiya)
-- Channel 4 (Rusiya)
 - Che! (Rusiya)
 - City Eden KinoSemya (Rusiya)
-- City Eden TV (Rusiya)
-- City Eden TeleNovella (Rusiya)
 - Classic Music (Rusiya)
 - Detskoe kino (Rusiya)
 - Detvora+ (Rusiya)
@@ -157,6 +154,7 @@
 - alpha Cinema (Rusiya)
 - o2tv (Rusiya)
 - viju+ Planet HD (Rusiya)
+- Карусель Ⓢ (Rusiya)
 - Катунь 24 Ⓞ (Rusiya)
 - Матч ТВ Ⓢ (Rusiya)
 - Небеса ТВ7 Ⓢ (Rusiya)
@@ -182,6 +180,7 @@
 - Disney Jr. (Türkiyə)
 - ETV Manisa (Türkiyə)
 - FX (Türkiyə)
+- Finans Turk TV (Türkiyə)
 - GZT (Türkiyə)
 - Guneydogu TV (Türkiyə)
 - Icel TV (Türkiyə)
@@ -192,7 +191,6 @@
 - Line TV (Türkiyə)
 - MTurk TV (Türkiyə)
 - MovieSmart Turk (Türkiyə)
-- NOW (Türkiyə)
 - National Geographic (Türkiyə)
 - National Geographic Wild (Türkiyə)
 - Natural TV (Türkiyə)
@@ -201,9 +199,8 @@
 - S Sport 2 (Türkiyə)
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
+- TRT 2 (Türkiyə)
 - TRT Belgesel (Türkiyə)
-- TRT Cocuk (Türkiyə)
-- TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
 - TV 1 (Türkiyə)
@@ -214,6 +211,7 @@
 - Turksat Tanitim (Türkiyə)
 - Ulke TV (Türkiyə)
 - Viasat History (Türkiyə)
+- beIN Sports 1 Turk (Türkiyə)
 
 ## Səsi Android-də çıxmayanlar (səsli link tapılmadı)
 

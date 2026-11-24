@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.20",
+  "versionCode": 29,
+  "versionName": "3.21",
   "apk": "M-ModusTV.apk",
-  "notes": "TV-dəki yazı xanalarına (link, kod, ad) telefondan — M-Modus Pult-dan yapışdırmaq olar."
+  "notes": "Mediateka: film zəif internetdə kəsiləndə avtomatik yenidən qoşulur və qaldığı yerdən davam edir. Xəta yazısı səbəbi dəqiq göstərir. OK — VLC filmlərdə də işləyir."
 }

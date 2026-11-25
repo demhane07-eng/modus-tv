@@ -1,16 +1,15 @@
-# Kanal hesabatı — 2026-11-24
+# Kanal hesabatı — 2026-11-25
 
-İşləyən: **469** · bu gün işləməyən: **202** · ehtiyat linklər: **326** · bir neçə keyfiyyətdə: **131**
+İşləyən: **470** · bu gün işləməyən: **203** · ehtiyat linklər: **332** · bir neçə keyfiyyətdə: **125**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 6 |
-| Türkiyə | 136 |
-| Rusiya | 327 |
+| Azərbaycan | 8 |
+| Türkiyə | 138 |
+| Rusiya | 324 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
-- Ayaz TV (Azərbaycan)
 - CBC Sport (Azərbaycan)
 - Mədəniyyət TV Ⓢ (Azərbaycan)
 - Xəzər Xəbər (Azərbaycan)
@@ -18,7 +17,6 @@
 - .black (Rusiya)
 - .sci-fi (Rusiya)
 - 15+ Music (Rusiya)
-- 6 TV Gorlovka (Rusiya)
 - A1 (Rusiya)
 - A2 (Rusiya)
 - Afontovo (Rusiya)
@@ -31,6 +29,9 @@
 - BRIDGE Classic (Rusiya)
 - BRIDGE Deluxe (Rusiya)
 - BRIDGE Hits (Rusiya)
+- BRIDGE RNB (Rusiya)
+- BRIDGE Rap (Rusiya)
+- BRIDGE Soul (Rusiya)
 - Bashkortostan 24 (Rusiya)
 - Big Planet (Rusiya)
 - Blokbaster HD (Rusiya)
@@ -121,6 +122,7 @@
 - Shokiruyushchee HD (Rusiya)
 - Sibir 24 (Rusiya)
 - Simferopol 24 (Rusiya)
+- Sportivnyy (Rusiya)
 - Start Triumf (Rusiya)
 - TERRA (Rusiya)
 - TLC (Rusiya)
@@ -166,7 +168,6 @@
 - Смотрим: Тайны (Rusiya)
 - Спас Ⓢ (Rusiya)
 - Тольятти 24 (Rusiya)
-- ATV Alanya (Türkiyə)
 - ATV Avrupa (Türkiyə)
 - Al-Rafidain TV (Türkiyə)
 - Altas TV (Türkiyə)
@@ -180,7 +181,6 @@
 - Disney Jr. (Türkiyə)
 - ETV Manisa (Türkiyə)
 - FX (Türkiyə)
-- Finans Turk TV (Türkiyə)
 - GZT (Türkiyə)
 - Guneydogu TV (Türkiyə)
 - Icel TV (Türkiyə)
@@ -191,7 +191,6 @@
 - Line TV (Türkiyə)
 - MTurk TV (Türkiyə)
 - MovieSmart Turk (Türkiyə)
-- National Geographic (Türkiyə)
 - National Geographic Wild (Türkiyə)
 - Natural TV (Türkiyə)
 - On4 TV (Türkiyə)
@@ -199,14 +198,16 @@
 - S Sport 2 (Türkiyə)
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
-- TRT 2 (Türkiyə)
 - TRT Belgesel (Türkiyə)
+- TRT Cocuk (Türkiyə)
+- TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
 - TV 1 (Türkiyə)
 - TV 42 (Türkiyə)
 - TV 52 (Türkiyə)
 - TVNET (Türkiyə)
+- Tele 1 (Türkiyə)
 - TurkHaber TV (Türkiyə)
 - Turksat Tanitim (Türkiyə)
 - Ulke TV (Türkiyə)

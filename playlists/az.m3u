@@ -5,12 +5,16 @@
 #EXTALT:https://operativmm.az/tvs/arb24/stream/index.m3u8
 #EXTALT:http://185.32.44.154/arb24/index.m3u8
 https://az.tvstream.az/hls/stream5/stream.m3u8
+#EXTINF:-1 tvg-id="AyazTV.az" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="General" x-list="Azərbaycan",Ayaz TV
+#EXTALT:https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
+#EXTALT:https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General" x-list="Azərbaycan",Az TV
 #EXTVLCOPT:http-referrer=https://tvstream.az/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTALT:https://operativmm.az/tvs/az/stream9/index.m3u8
 #EXTALT:https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
 #EXTALT:https://str.yodacdn.net/azertv/index.m3u8
-#EXTALT:https://operativmm.az/tvs/az/stream9/index.m3u8
 #EXTALT:http://185.32.44.154/aztv/index.m3u8
 https://az.tvstream.az/hls/stream9/index.m3u8
 #EXTINF:-1 tvg-id="KanalS.az" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Kanal%20S.png" group-title="General" x-list="Azərbaycan",Kanal S
@@ -18,6 +22,9 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV.az" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Music" x-list="Azərbaycan",KN Music TV
 #EXTALT:https://cdn4.yayin.com.tr/kntv/video.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="XezerTV.az" group-title="General" x-list="Azərbaycan",Xezer TV
+#EXTALT:https://xezer.tvstream.az/hls/stream/main_stream.m3u8
+https://xezer.tvstream.az/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="Azerbaijan" x-list="Azərbaycan",AzStarTV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azerbaijan" x-list="Azərbaycan",Baku TV

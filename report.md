@@ -1,37 +1,29 @@
-# Kanal hesabatı — 2026-11-26
+# Kanal hesabatı — 2026-11-27
 
-İşləyən: **443** · bu gün işləməyən: **230** · ehtiyat linklər: **308** · bir neçə keyfiyyətdə: **133**
+İşləyən: **481** · bu gün işləməyən: **201** · ehtiyat linklər: **374** · bir neçə keyfiyyətdə: **132**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 7 |
-| Türkiyə | 138 |
-| Rusiya | 298 |
+| Azərbaycan | 8 |
+| Türkiyə | 140 |
+| Rusiya | 333 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
-- Baku TV (Azərbaycan)
 - CBC Sport (Azərbaycan)
 - Mədəniyyət TV Ⓢ (Azərbaycan)
 - Xəzər Xəbər (Azərbaycan)
 - İctimai TV Ⓢ (Azərbaycan)
 - .black (Rusiya)
-- .sci-fi (Rusiya)
 - 15+ Music (Rusiya)
-- 6 TV Gorlovka (Rusiya)
-- A1 (Rusiya)
 - A2 (Rusiya)
 - Afontovo (Rusiya)
 - Amedia Hit (Rusiya)
 - Amedia Premium (Rusiya)
-- Ani (Rusiya)
-- Animal Planet (Rusiya)
 - Arktika 24 (Rusiya)
-- Avto24 (Rusiya)
 - BRIDGE Classic (Rusiya)
 - BRIDGE Dance (Rusiya)
 - BRIDGE Deluxe (Rusiya)
-- BRIDGE Hits (Rusiya)
 - BRIDGE Jazz (Rusiya)
 - BRIDGE RNB (Rusiya)
 - BRIDGE Rap (Rusiya)
@@ -42,8 +34,7 @@
 - Big Planet (Rusiya)
 - Blokbaster HD (Rusiya)
 - Bober (Rusiya)
-- Boks TV (Rusiya)
-- Che! (Rusiya)
+- City Eden KinoDetektiv (Rusiya)
 - City Eden KinoSemya (Rusiya)
 - Classic Music (Rusiya)
 - Detskoe kino (Rusiya)
@@ -59,44 +50,33 @@
 - Europa Plus TV (Rusiya)
 - Extreme Sports Channel (Rusiya)
 - FAN (Rusiya)
-- FON Music (Rusiya)
 - Fashion&LifeStyle (Rusiya)
 - Feniks plus Kino (Rusiya)
-- Food Network (Rusiya)
 - Fox (Rusiya)
 - Fox Life (Rusiya)
 - Friday! International Kazakhstan (Rusiya)
-- Gagsnetwork (Rusiya)
 - Gorodskoy telekanal (Rusiya)
 - Hit HD (Rusiya)
 - Hollywood (Rusiya)
 - India (Rusiya)
 - Investigation Discovery (Rusiya)
-- Istoriya (Rusiya)
 - Kavkaz 24 (Rusiya)
-- Kineko (Rusiya)
 - Kino 24 (Rusiya)
 - KinoSat (Rusiya)
-- Kinokomedija (Rusiya)
-- Kinosemja (Rusiya)
 - Kinouzhas (Rusiya)
 - Komediynoe HD (Rusiya)
-- Kto est kto (Rusiya)
 - LDPR TV (Rusiya)
 - Lapki Live (Rusiya)
 - Legendarnyy 24 (Rusiya)
 - LenTV24 (Rusiya)
 - Live Music Channel HD (Rusiya)
-- MCM Top (Rusiya)
 - Match! Arena (Rusiya)
 - Match! Boets (Rusiya)
 - Match! Igra (Rusiya)
 - Match! Planeta (Rusiya)
-- Match! Strana (Rusiya)
 - Mezzo Live (Rusiya)
 - Millet (Rusiya)
 - Mini Disco (Rusiya)
-- Mosfilm Gold Collection (Rusiya)
 - Moya Planeta (Rusiya)
 - Moya stikhiya HD (Rusiya)
 - Mult i muzyka (Rusiya)
@@ -106,9 +86,7 @@
 - Nash Kinopokaz HD (Rusiya)
 - Nashe HD (Rusiya)
 - Nashe muzhskoe HD (Rusiya)
-- National Geographic (Rusiya)
 - National Geographic Wild (Rusiya)
-- Nickelodeon (Rusiya)
 - O! (Rusiya)
 - Okko Futbol (Rusiya)
 - Okko Prajm Sport (Rusiya)
@@ -119,7 +97,6 @@
 - Premialnoe HD (Rusiya)
 - Pro Lyubov (Rusiya)
 - RT Д Русский Ⓖ (Rusiya)
-- RTG TV (Rusiya)
 - RU.TV Kids (Rusiya)
 - RZD TV (Rusiya)
 - Radio Shanson (Rusiya)
@@ -131,17 +108,14 @@
 - Russkiy Illusion (Rusiya)
 - Rybolov (Rusiya)
 - START World (Rusiya)
-- STS kids (Rusiya)
 - Samara 24 (Rusiya)
 - Saphire (Rusiya)
-- Sarafan (Rusiya)
 - Seven (Rusiya)
 - Shokiruyushchee HD (Rusiya)
 - Sibir 24 (Rusiya)
 - Simferopol 24 (Rusiya)
 - Start Triumf (Rusiya)
 - TERRA (Rusiya)
-- TLC (Rusiya)
 - TNT4 (Rusiya)
 - TV 21 International (Rusiya)
 - TVK (Rusiya)
@@ -172,7 +146,6 @@
 - Zhivi! (Rusiya)
 - Zoo TV (Rusiya)
 - alpha Cinema (Rusiya)
-- o2tv (Rusiya)
 - viju Explore (Rusiya)
 - viju History (Rusiya)
 - viju TV1000 (Rusiya)
@@ -204,7 +177,6 @@
 - Bursa TV (Türkiyə)
 - Cay TV (Türkiyə)
 - Cekmekoy TV (Türkiyə)
-- DHA (Türkiyə)
 - Disney Jr. (Türkiyə)
 - ETV Manisa (Türkiyə)
 - FX (Türkiyə)
@@ -218,7 +190,6 @@
 - Line TV (Türkiyə)
 - MTurk TV (Türkiyə)
 - MovieSmart Turk (Türkiyə)
-- NOW (Türkiyə)
 - National Geographic Wild (Türkiyə)
 - Natural TV (Türkiyə)
 - On4 TV (Türkiyə)
@@ -244,9 +215,12 @@
 ## Səsi Android-də çıxmayanlar (səsli link tapılmadı)
 
 - Baby Time
-- Friday!
+- KVN TV
+- Match! Premier
 - Match! Ultra
+- NTV-Hit
 - REN TV
+- TV 21
 
 ## 30+ gündür işləməyənlər (yeni link lazımdır)
 

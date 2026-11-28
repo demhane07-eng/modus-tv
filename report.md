@@ -1,15 +1,16 @@
-# Kanal hesabatı — 2026-11-27
+# Kanal hesabatı — 2026-11-28
 
-İşləyən: **481** · bu gün işləməyən: **201** · ehtiyat linklər: **374** · bir neçə keyfiyyətdə: **132**
+İşləyən: **459** · bu gün işləməyən: **223** · ehtiyat linklər: **380** · bir neçə keyfiyyətdə: **127**
 
 | Siyahı | İşləyən |
 |---|---|
-| Azərbaycan | 8 |
-| Türkiyə | 140 |
-| Rusiya | 333 |
+| Azərbaycan | 7 |
+| Türkiyə | 136 |
+| Rusiya | 316 |
 
 ## Bu gün işləməyənlər (sabah yenidən yoxlanılacaq)
 
+- Baku TV (Azərbaycan)
 - CBC Sport (Azərbaycan)
 - Mədəniyyət TV Ⓢ (Azərbaycan)
 - Xəzər Xəbər (Azərbaycan)
@@ -21,6 +22,7 @@
 - Amedia Hit (Rusiya)
 - Amedia Premium (Rusiya)
 - Arktika 24 (Rusiya)
+- Astrahan 24 (Rusiya)
 - BRIDGE Classic (Rusiya)
 - BRIDGE Dance (Rusiya)
 - BRIDGE Deluxe (Rusiya)
@@ -34,8 +36,26 @@
 - Big Planet (Rusiya)
 - Blokbaster HD (Rusiya)
 - Bober (Rusiya)
+- City Eden AutoGid (Rusiya)
+- City Eden Birma Play (Rusiya)
+- City Eden Classic Music (Rusiya)
+- City Eden KinoAction (Rusiya)
+- City Eden KinoArt (Rusiya)
+- City Eden KinoAsia (Rusiya)
 - City Eden KinoDetektiv (Rusiya)
+- City Eden KinoDok (Rusiya)
+- City Eden KinoDrama (Rusiya)
+- City Eden KinoFantastika (Rusiya)
+- City Eden KinoKlassika (Rusiya)
+- City Eden KinoKomediya (Rusiya)
+- City Eden KinoMistika (Rusiya)
 - City Eden KinoSemya (Rusiya)
+- City Eden MedZdrav (Rusiya)
+- City Eden Play (Rusiya)
+- City Eden Recepty Gurmana (Rusiya)
+- City Eden Sirtaki TV (Rusiya)
+- City Eden TV (Rusiya)
+- City Eden TeleNovella (Rusiya)
 - Classic Music (Rusiya)
 - Detskoe kino (Rusiya)
 - Detvora+ (Rusiya)
@@ -63,7 +83,6 @@
 - Kavkaz 24 (Rusiya)
 - Kino 24 (Rusiya)
 - KinoSat (Rusiya)
-- Kinouzhas (Rusiya)
 - Komediynoe HD (Rusiya)
 - LDPR TV (Rusiya)
 - Lapki Live (Rusiya)
@@ -82,7 +101,7 @@
 - Mult i muzyka (Rusiya)
 - Muzhskoe kino (Rusiya)
 - Muzyka Live (Rusiya)
-- NTV Series (Rusiya)
+- NTS (Rusiya)
 - Nash Kinopokaz HD (Rusiya)
 - Nashe HD (Rusiya)
 - Nashe muzhskoe HD (Rusiya)
@@ -115,8 +134,6 @@
 - Sibir 24 (Rusiya)
 - Simferopol 24 (Rusiya)
 - Start Triumf (Rusiya)
-- TERRA (Rusiya)
-- TNT4 (Rusiya)
 - TV 21 International (Rusiya)
 - TVK (Rusiya)
 - Teatr (Rusiya)
@@ -168,6 +185,7 @@
 - Смотрим: Тайны (Rusiya)
 - Спас Ⓢ (Rusiya)
 - Тольятти 24 (Rusiya)
+- Якутия 24 (Rusiya)
 - ATV Avrupa (Türkiyə)
 - Al-Rafidain TV (Türkiyə)
 - Altas TV (Türkiyə)
@@ -177,6 +195,7 @@
 - Bursa TV (Türkiyə)
 - Cay TV (Türkiyə)
 - Cekmekoy TV (Türkiyə)
+- DHA (Türkiyə)
 - Disney Jr. (Türkiyə)
 - ETV Manisa (Türkiyə)
 - FX (Türkiyə)
@@ -189,6 +208,7 @@
 - Kanal Hayat (Türkiyə)
 - Line TV (Türkiyə)
 - MTurk TV (Türkiyə)
+- Med Muzik (Türkiyə)
 - MovieSmart Turk (Türkiyə)
 - National Geographic Wild (Türkiyə)
 - Natural TV (Türkiyə)
@@ -197,7 +217,9 @@
 - S Sport 2 (Türkiyə)
 - Show Turk (Türkiyə)
 - TJK TV 2 (Türkiyə)
+- TRT 2 (Türkiyə)
 - TRT Belgesel (Türkiyə)
+- TRT Cocuk (Türkiyə)
 - TRT Genc (Türkiyə)
 - TRT Spor (Türkiyə)
 - TRT Spor 2 Ⓖ (Türkiyə)
@@ -220,6 +242,7 @@
 - Match! Ultra
 - NTV-Hit
 - REN TV
+- Russkiy roman
 - TV 21
 
 ## 30+ gündür işləməyənlər (yeni link lazımdır)

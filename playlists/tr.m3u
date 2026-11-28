@@ -28,8 +28,8 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTALT:https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General" x-list="Türkiyə",ATV
-#EXTALT:http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTALT:https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-logo="https://i.imgur.com/bUwarR0.png" group-title="General" x-list="Türkiyə",ATV Alanya
 #EXTALT:http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
@@ -64,8 +64,6 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 http://85.117.61.84/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-logo="https://i.imgur.com/Mm8hdfx.png" group-title="General" x-list="Türkiyə",Deniz Postasi TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 tvg-id="DHA.tr" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News" x-list="Türkiyə",DHA
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" group-title="Religious" x-list="Türkiyə",Diyanet TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DiyarTV.tr" tvg-logo="https://i.imgur.com/qWkHjRA.png" group-title="Religious" x-list="Türkiyə",Diyar TV
@@ -171,8 +169,6 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr" tvg-logo="https://i.imgur.com/wyWappU.png" group-title="General" x-list="Türkiyə",MaviKaradeniz TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 tvg-id="MedMuzik.tr" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Music" x-list="Türkiyə",Med Muzik
-http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="News" x-list="Türkiyə" x-native-name="قناة مكملين",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MeltemTV.tr" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="General" x-list="Türkiyə",Meltem TV
@@ -261,15 +257,11 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined" x-list="Türkiyə",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://i.imgur.com/iOCQdyD.png" group-title="Undefined" x-list="Türkiyə",TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="Undefined" x-list="Türkiyə",TRT 3
 #EXTALT:https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F418740351278f04c94b243
 https://tv-trt3.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png" group-title="Undefined" x-list="Türkiyə",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png" group-title="Kids" x-list="Türkiyə",TRT Cocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids" x-list="Türkiyə",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRT_EBA_TV_logo.svg/960px-TRT_EBA_TV_logo.svg.png" group-title="Education" x-list="Türkiyə",TRT EBA

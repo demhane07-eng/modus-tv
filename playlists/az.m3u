@@ -18,11 +18,8 @@ https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV.az" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Music" x-list="Azərbaycan",KN Music TV
 #EXTALT:https://cdn4.yayin.com.tr/kntv/video.m3u8
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az" group-title="General" x-list="Azərbaycan",Xezer TV
+#EXTINF:-1 tvg-id="XezerTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Xazar_TV_Logo.png" group-title="General" x-list="Azərbaycan",Xezer TV
 #EXTALT:https://xezer.tvstream.az/hls/stream/main_stream.m3u8
 https://xezer.tvstream.az/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="Azerbaijan" x-list="Azərbaycan",AzStarTV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="Azerbaijan" x-list="Azərbaycan",Baku TV
-#EXTALT:https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-https://rtmp.baku.tv/hls/bakutv.m3u8
